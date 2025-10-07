@@ -1,0 +1,25 @@
+place sauda hero0 at 1055, 666
+place sniper sniper0 at 854, 732
+retarget sniper0
+retarget sniper0
+retarget sniper0
+place sniper sniper1 at 816, 779
+place sniper sniper2 at 646, 543
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+upgrade sniper0 path 0
+upgrade sniper1 path 1
+upgrade sniper1 path 1
+upgrade sniper1 path 2
+upgrade sniper0 path 1
+upgrade sniper0 path 0
+upgrade sniper0 path 0
+upgrade sniper2 path 0
+upgrade sniper2 path 1
+upgrade sniper2 path 1
+upgrade sniper2 path 1
+upgrade sniper1 path 2
+upgrade sniper0 path 0
+upgrade sniper0 path 1
+upgrade sniper0 path 0
