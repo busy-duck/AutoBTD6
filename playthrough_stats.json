@@ -1960,5 +1960,10 @@
         "1920x1080": {
             "validation_result": true
         }
+    },
+    "playthroughs/end_of_the_road#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true
+        }
     }
 }
