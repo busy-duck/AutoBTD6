@@ -1890,5 +1890,10 @@
         "1920x1080": {
             "validation_result": true
         }
+    },
+    "playthroughs/one_two_tree#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true
+        }
     }
 }
