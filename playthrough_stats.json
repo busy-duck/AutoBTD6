@@ -1965,5 +1965,39 @@
         "1920x1080": {
             "validation_result": true
         }
+    },
+    "playthroughs/high_finance#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": false,
+            "medium": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    569.0870151519775
+                ]
+            },
+            "reverse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    563.921225309372
+                ]
+            },
+            "military_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    555.9856040477753
+                ]
+            },
+            "apopalypse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    444.129056930542
+                ]
+            }
+        },
+        "version": 50.0
     }
 }
