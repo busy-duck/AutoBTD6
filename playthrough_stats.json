@@ -1895,5 +1895,10 @@
         "1920x1080": {
             "validation_result": true
         }
+    },
+    "playthroughs/scrapyard#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true
+        }
     }
 }
