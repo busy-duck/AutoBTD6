@@ -1,0 +1,27 @@
+place sauda hero0 at 931, 891
+place sniper sniper0 at 885, 361
+retarget sniper0
+retarget sniper0
+retarget sniper0
+place heli heli0 at 1018, 342
+upgrade heli0 path 0
+upgrade heli0 path 0
+upgrade heli0 path 0
+place heli heli1 at 1169, 472
+upgrade heli1 path 0
+upgrade heli1 path 0
+upgrade heli1 path 2
+upgrade heli1 path 2
+upgrade heli1 path 2
+upgrade heli0 path 1
+upgrade heli0 path 1
+upgrade heli1 path 2
+upgrade heli0 path 0
+upgrade heli0 path 0
+upgrade heli1 path 2
+upgrade sniper0 path 0
+upgrade sniper0 path 0
+upgrade sniper0 path 0
+upgrade sniper0 path 0
+upgrade sniper0 path 1
+upgrade sniper0 path 1
