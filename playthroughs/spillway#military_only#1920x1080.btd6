@@ -1,0 +1,32 @@
+place mortar mortar0 at 378, 399
+retarget mortar0 to 831, 430
+upgrade mortar0 path 2
+place sniper sniper0 at 836, 530
+place benjamin hero0 at 1344, 534
+upgrade mortar0 path 1
+upgrade sniper0 path 2
+upgrade sniper0 path 2
+upgrade mortar0 path 2
+upgrade mortar0 path 1
+upgrade sniper0 path 1
+upgrade sniper0 path 1
+place sniper sniper1 at 1375, 1036
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+upgrade sniper1 path 1
+upgrade sniper1 path 1
+place sniper sniper2 at 1334, 71
+upgrade sniper2 path 2
+upgrade sniper2 path 2
+upgrade sniper2 path 1
+upgrade sniper2 path 1
+upgrade mortar0 path 2
+upgrade sniper1 path 1
+upgrade sniper0 path 2
+upgrade sniper0 path 2
+upgrade sniper1 path 1
+upgrade sniper1 path 1
+retarget sniper1
+upgrade sniper0 path 2
+upgrade sniper2 path 1
+upgrade sniper2 path 1
