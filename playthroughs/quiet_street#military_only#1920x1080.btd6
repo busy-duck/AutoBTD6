@@ -1,0 +1,18 @@
+place adora hero0 at 588, 394
+place sniper sniper0 at 503, 385
+place sniper sniper1 at 432, 384
+upgrade sniper0 path 2
+upgrade sniper0 path 2
+upgrade sniper0 path 1
+upgrade sniper0 path 1
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+upgrade sniper1 path 1
+upgrade sniper1 path 1
+upgrade sniper1 path 1
+upgrade sniper0 path 2
+upgrade sniper0 path 2
+upgrade sniper1 path 1
+upgrade sniper1 path 1
+retarget sniper1
+upgrade sniper0 path 2
