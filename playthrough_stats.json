@@ -2080,5 +2080,32 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/firing_range#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "military_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    534.9597632884979
+                ]
+            },
+            "apopalypse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    413.4729356765747
+                ]
+            },
+            "reverse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    561.3101029396057
+                ]
+            }
+        },
+        "version": 50.0
     }
 }

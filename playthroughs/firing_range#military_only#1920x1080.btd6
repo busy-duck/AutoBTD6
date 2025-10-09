@@ -1,0 +1,32 @@
+place buccaneer buccaneer0 at 1321, 469
+place sub sub0 at 1429, 457
+place sniper sniper0 at 183, 277
+place benjamin hero0 at 344, 633
+upgrade buccaneer0 path 1
+upgrade sub0 path 0
+upgrade sub0 path 0
+upgrade buccaneer0 path 2
+upgrade buccaneer0 path 2
+upgrade buccaneer0 path 2
+upgrade buccaneer0 path 1
+upgrade sub0 path 2
+upgrade sub0 path 2
+upgrade sub0 path 2
+upgrade buccaneer0 path 2
+upgrade sniper0 path 1
+upgrade sniper0 path 1
+upgrade sniper0 path 1
+upgrade sniper0 path 2
+upgrade sniper0 path 2
+upgrade sub0 path 2
+upgrade sniper0 path 1
+place sniper sniper1 at 1510, 285
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+upgrade sniper1 path 1
+upgrade sniper1 path 1
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+upgrade sniper0 path 1
+retarget sniper0
+upgrade sniper1 path 2
