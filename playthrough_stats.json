@@ -2053,5 +2053,32 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/bloonarius_prime#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "reverse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    526.6278731822968
+                ]
+            },
+            "military_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    513.6876244544983
+                ]
+            },
+            "apopalypse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    482.32865381240845
+                ]
+            }
+        },
+        "version": 50.0
     }
 }
