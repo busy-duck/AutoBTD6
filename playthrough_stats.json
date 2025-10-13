@@ -2209,5 +2209,32 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/midnight_mansion#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "medium": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    514.8734948635101
+                ]
+            },
+            "military_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    515.4624259471893
+                ]
+            },
+            "reverse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    554.5422620773315
+                ]
+            }
+        },
+        "version": 50.0
     }
 }
