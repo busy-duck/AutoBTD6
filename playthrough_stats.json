@@ -2236,5 +2236,32 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/peninsula#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "easy": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    306.0333173274994
+                ]
+            },
+            "military_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    521.7602071762085
+                ]
+            },
+            "reverse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    499.05647110939026
+                ]
+            }
+        },
+        "version": 50.0
     }
 }
