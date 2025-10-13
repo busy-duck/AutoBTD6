@@ -2175,5 +2175,39 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/dark_path#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "medium": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    500.19007182121277
+                ]
+            },
+            "military_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    499.26024055480957
+                ]
+            },
+            "reverse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    489.18211793899536
+                ]
+            },
+            "apopalypse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    515.4957499504089
+                ]
+            }
+        },
+        "version": 50.0
     }
 }

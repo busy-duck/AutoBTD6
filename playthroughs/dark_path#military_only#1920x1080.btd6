@@ -1,0 +1,26 @@
+place quincy hero0 at 889, 313
+place sniper sniper0 at 1159, 719
+place sniper sniper1 at 1200, 783
+place sniper sniper2 at 876, 237
+upgrade sniper0 path 1
+upgrade sniper0 path 1
+upgrade sniper1 path 1
+upgrade sniper1 path 1
+upgrade sniper2 path 0
+retarget sniper2
+retarget sniper2
+retarget sniper2
+upgrade sniper0 path 2
+upgrade sniper0 path 2
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+upgrade sniper0 path 1
+upgrade sniper2 path 1
+upgrade sniper2 path 1
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+upgrade sniper0 path 1
+upgrade sniper0 path 1
+upgrade sniper1 path 2
+upgrade sniper2 path 0
+upgrade sniper2 path 0
