@@ -2002,7 +2002,7 @@
     },
     "playthroughs/spillway#military_only#1920x1080.btd6": {
         "1920x1080": {
-            "validation_result": false,
+            "validation_result": true,
             "military_only": {
                 "attempts": 1,
                 "wins": 1,
@@ -2137,6 +2137,40 @@
                 "wins": 1,
                 "win_times": [
                     509.8444392681122
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/bazaar#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "medium": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    562.5625460147858
+                ]
+            },
+            "military_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    565.8323791027069
+                ]
+            },
+            "apopalypse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    465.8002746105194
+                ]
+            },
+            "reverse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    567.1022033691406
                 ]
             }
         },
