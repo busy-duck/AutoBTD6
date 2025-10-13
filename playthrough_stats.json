@@ -2263,5 +2263,45 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/cornfield#military_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "medium": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    633.4836375713348
+                ]
+            },
+            "military_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    634.1025826931
+                ]
+            },
+            "reverse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    583.5323057174683
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/cornfield#apopalypse#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "apopalypse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    456.95666551589966
+                ]
+            }
+        },
+        "version": 50.0
     }
 }
