@@ -2407,5 +2407,50 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/bazaar#chimps#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "hard": {
+                "attempts": 1,
+                "wins": 0,
+                "win_times": []
+            },
+            "chimps": {
+                "attempts": 4,
+                "wins": 1,
+                "win_times": [
+                    1489.0073692798615
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/bazaar#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "alternate_bloons_rounds": {
+                "attempts": 5,
+                "wins": 2,
+                "win_times": [
+                    830.2168684005737,
+                    809.7043995857239
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/bazaar#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "impoppable": {
+                "attempts": 3,
+                "wins": 1,
+                "win_times": [
+                    1055.1875376701355
+                ]
+            }
+        },
+        "version": 50.0
     }
 }

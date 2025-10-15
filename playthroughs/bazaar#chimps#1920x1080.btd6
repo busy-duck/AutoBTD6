@@ -1,0 +1,71 @@
+place dart dart0 at 325, 543
+place dart dart1 at 398, 544
+place dart dart2 at 839, 538
+place engineer engineer0 at 1118, 537
+retarget dart2
+retarget dart2
+retarget dart2
+upgrade engineer0 path 0
+place silas hero0 at 1271, 542
+upgrade engineer0 path 0
+upgrade engineer0 path 0
+upgrade engineer0 path 2
+upgrade engineer0 path 2
+upgrade engineer0 path 0
+place desperado desperado0 at 1423, 643
+upgrade desperado0 path 1
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+upgrade desperado0 path 1
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+upgrade dart0 path 2
+upgrade dart0 path 2
+place village village0 at 1433, 553
+upgrade village0 path 2
+upgrade village0 path 2
+upgrade village0 path 0
+upgrade village0 path 0
+upgrade village0 path 0
+upgrade village0 path 0
+place ice ice0 at 1194, 544
+upgrade ice0 path 0 with 100% discount
+upgrade ice0 path 0 with 15% discount
+upgrade ice0 path 0 with 15% discount
+upgrade ice0 path 1 with 100% discount
+upgrade ice0 path 1 with 15% discount
+upgrade desperado0 path 0
+place ice ice1 at 1340, 543
+upgrade ice0 path 0
+upgrade ice1 path 2 with 100% discount
+upgrade ice1 path 2 with 15% discount
+upgrade ice1 path 2 with 15% discount
+upgrade ice1 path 0 with 100% discount
+upgrade ice1 path 0 with 15% discount
+upgrade ice1 path 2
+upgrade engineer0 path 0
+upgrade ice1 path 2 with 25% discount
+upgrade ice0 path 0 with 25% discount
+place spike spike0 at 245, 541
+upgrade spike0 path 2
+upgrade spike0 path 2
+retarget spike0
+retarget spike0
+upgrade spike0 path 2
+upgrade spike0 path 2
+upgrade spike0 path 0
+upgrade spike0 path 0
+place alchemist alchemist0 at 188, 687
+upgrade alchemist0 path 0
+upgrade alchemist0 path 0
+upgrade alchemist0 path 0
+upgrade alchemist0 path 2
+upgrade alchemist0 path 0
+place buccaneer buccaneer1 at 834, 747
+upgrade buccaneer1 path 0
+upgrade buccaneer1 path 0
+upgrade buccaneer1 path 0
+upgrade buccaneer1 path 1
+upgrade buccaneer1 path 1
+upgrade buccaneer1 path 0
+upgrade buccaneer1 path 0
