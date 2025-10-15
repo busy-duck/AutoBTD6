@@ -2303,5 +2303,51 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/adoras_temple#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "easy": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    362.1457829475403
+                ]
+            },
+            "alternate_bloons_rounds": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    966.95117354393
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/adoras_temple#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "impoppable": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1254.1695551872253
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/adoras_temple#chimps#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "chimps": {
+                "attempts": 3,
+                "wins": 1,
+                "win_times": [
+                    1307.1600317955017
+                ]
+            }
+        },
+        "version": 50.0
     }
 }

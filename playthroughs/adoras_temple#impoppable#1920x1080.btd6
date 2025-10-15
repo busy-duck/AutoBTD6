@@ -1,0 +1,52 @@
+place dart dart0 at 701, 306
+place sub sub0 at 509, 836
+place sub sub1 at 1158, 845
+place sub sub2 at 1155, 235
+place benjamin hero1 at 161, 886
+place desperado desperado0 at 904, 455
+upgrade desperado0 path 1
+place sniper sniper0 at 772, 456
+upgrade sniper0 path 0
+upgrade sniper0 path 1
+upgrade desperado0 path 1
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+place wizard wizard0 at 941, 531
+upgrade wizard0 path 0
+upgrade sniper0 path 1
+upgrade wizard0 path 1
+upgrade wizard0 path 0
+upgrade wizard0 path 0
+upgrade sniper0 path 0
+upgrade sniper0 path 0
+upgrade sniper0 path 0
+upgrade wizard0 path 1
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+upgrade wizard0 path 0
+place village village0 at 940, 327
+upgrade village0 path 0
+upgrade village0 path 0
+upgrade village0 path 0
+upgrade desperado0 path 0
+upgrade village0 path 0
+upgrade village0 path 1
+upgrade village0 path 1
+place alchemist alchemist0 at 1048, 501
+upgrade alchemist0 path 0
+upgrade alchemist0 path 0
+upgrade alchemist0 path 0
+upgrade alchemist0 path 1
+upgrade alchemist0 path 1
+upgrade alchemist0 path 0
+upgrade wizard0 path 0
+place glue glue0 at 771, 336
+upgrade glue0 path 2 with 100% discount
+upgrade glue0 path 2
+upgrade glue0 path 2
+upgrade glue0 path 0 with 100% discount
+upgrade glue0 path 0
+upgrade glue0 path 2
+upgrade glue0 path 2
+upgrade village0 path 0
+upgrade sniper0 path 0
