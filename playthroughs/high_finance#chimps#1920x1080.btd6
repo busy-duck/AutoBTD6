@@ -1,0 +1,54 @@
+place sub sub0 at 798, 459
+place dart dart0 at 966, 876
+place dart dart1 at 702, 876
+place dart dart2 at 962, 465
+place etienne hero0 at 721, 442
+place buccaneer buccaneer0 at 833, 685
+upgrade sub0 path 2
+upgrade buccaneer0 path 0
+upgrade buccaneer0 path 1
+upgrade buccaneer0 path 1
+upgrade buccaneer0 path 0
+upgrade sub0 path 0
+upgrade sub0 path 0
+upgrade dart1 path 0
+upgrade dart1 path 0
+upgrade dart1 path 0
+upgrade dart1 path 2
+upgrade dart1 path 2
+upgrade sub0 path 2
+upgrade dart1 path 0
+upgrade buccaneer0 path 0
+upgrade buccaneer0 path 0
+upgrade buccaneer0 path 0
+place village village0 at 919, 734
+upgrade village0 path 0
+upgrade village0 path 0
+upgrade village0 path 2
+upgrade village0 path 2
+place wizard wizard0 at 746, 592
+upgrade wizard0 path 0 with 15% discount
+upgrade wizard0 path 0 with 15% discount
+upgrade wizard0 path 0 with 15% discount
+upgrade wizard0 path 1 with 15% discount
+upgrade wizard0 path 1 with 15% discount
+upgrade wizard0 path 0
+upgrade wizard0 path 0
+upgrade village0 path 0
+upgrade village0 path 0
+place glue glue0 at 736, 747
+upgrade glue0 path 2 with 100% discount
+upgrade glue0 path 2 with 15% discount
+upgrade glue0 path 2 with 15% discount
+upgrade glue0 path 1 with 100% discount
+place boomerang boomerang0 at 831, 538
+upgrade boomerang0 path 0 with 100% discount
+upgrade boomerang0 path 0 with 15% discount
+upgrade boomerang0 path 0 with 15% discount
+upgrade boomerang0 path 2 with 100% discount
+upgrade boomerang0 path 2 with 15% discount
+upgrade boomerang0 path 0
+upgrade boomerang0 path 0
+upgrade glue0 path 2
+upgrade glue0 path 1 with 15% discount
+upgrade dart1 path 0

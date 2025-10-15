@@ -2479,5 +2479,51 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/high_finance#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "alternate_bloons_rounds": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    833.0694329738617
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/high_finance#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "hard": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    810.8656516075134
+                ]
+            },
+            "impoppable": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1045.7922282218933
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/high_finance#chimps#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "chimps": {
+                "attempts": 4,
+                "wins": 1,
+                "win_times": [
+                    1097.5664927959442
+                ]
+            }
+        },
+        "version": 50.0
     }
 }
