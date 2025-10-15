@@ -1,0 +1,63 @@
+place dart dart0 at 660, 338
+retarget dart0
+place dart dart1 at 659, 275
+place dart dart2 at 597, 446
+place benjamin hero0 at 109, 923
+place sniper sniper0 at 147, 779
+upgrade sniper0 path 1
+upgrade sniper0 path 1
+place druid druid0 at 77, 793
+upgrade druid0 path 1
+upgrade druid0 path 1
+upgrade druid0 path 1
+upgrade druid0 path 0
+upgrade sniper0 path 2
+upgrade sniper0 path 2
+place farm farm0 at 112, 199
+upgrade farm0 path 1
+upgrade farm0 path 1
+upgrade farm0 path 1
+upgrade sniper0 path 2
+upgrade sniper0 path 2
+place glue glue0 at 76, 666
+upgrade glue0 path 0
+upgrade glue0 path 0
+upgrade farm0 path 2
+upgrade farm0 path 2
+place wizard wizard0 at 147, 668
+upgrade wizard0 path 1
+upgrade wizard0 path 1
+place village village0 at 108, 577
+upgrade village0 path 1
+upgrade village0 path 1
+upgrade village0 path 0
+upgrade village0 path 0
+upgrade wizard0 path 0
+upgrade wizard0 path 0
+upgrade wizard0 path 0
+upgrade wizard0 path 0
+upgrade glue0 path 2
+upgrade glue0 path 2
+upgrade glue0 path 2
+upgrade glue0 path 2
+upgrade sniper0 path 2
+place heli heli0 at 106, 461
+upgrade heli0 path 0
+upgrade heli0 path 0
+upgrade heli0 path 0
+upgrade heli0 path 2
+upgrade heli0 path 2
+upgrade heli0 path 0
+upgrade wizard0 path 0
+place alchemist alchemist0 at 104, 367
+upgrade alchemist0 path 0
+upgrade alchemist0 path 0
+upgrade alchemist0 path 0
+upgrade alchemist0 path 2
+upgrade alchemist0 path 0
+upgrade heli0 path 0
+upgrade druid0 path 1
+upgrade druid0 path 0
+upgrade glue0 path 2
+upgrade druid0 path 1
+upgrade village0 path 1

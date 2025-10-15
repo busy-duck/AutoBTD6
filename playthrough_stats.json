@@ -2452,5 +2452,32 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/covered_garden#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "impoppable": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    934.1978056430817
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/covered_garden#chimps#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "chimps": {
+                "attempts": 4,
+                "wins": 2,
+                "win_times": [
+                    1168.2829728126526,
+                    1122.7833242416382
+                ]
+            }
+        },
+        "version": 50.0
     }
 }

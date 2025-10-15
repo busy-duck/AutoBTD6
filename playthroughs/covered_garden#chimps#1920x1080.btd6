@@ -1,0 +1,81 @@
+place dart dart0 at 661, 337
+place dart dart1 at 608, 446
+place dart dart2 at 152, 673
+round 10
+place etienne hero0 at 439, 443
+upgrade dart0 path 0
+round 13
+place engineer engineer0 at 499, 557
+round 14
+upgrade dart0 path 0
+upgrade dart0 path 0
+round 22
+upgrade dart0 path 0
+upgrade dart0 path 1
+round 25
+upgrade engineer0 path 0
+upgrade engineer0 path 1
+round 26
+upgrade dart0 path 1
+round 29
+upgrade engineer0 path 1
+upgrade engineer0 path 0
+round 33
+upgrade engineer0 path 0
+round 34
+place druid druid0 at 661, 274
+upgrade druid0 path 1
+upgrade druid0 path 1
+upgrade druid0 path 1
+round 37
+place dart dart3 at 555, 602
+upgrade dart3 path 2
+upgrade dart3 path 2
+upgrade dart3 path 0
+upgrade dart3 path 0
+upgrade dart3 path 0
+round 38
+upgrade druid0 path 0
+upgrade druid0 path 0
+round 41
+upgrade engineer0 path 0
+upgrade dart3 path 0
+round 48
+place spike spike0 at 1235, 567
+round 50
+upgrade dart0 path 0
+round 52
+upgrade spike0 path 2
+upgrade spike0 path 2
+retarget spike0
+retarget spike0
+round 56
+upgrade spike0 path 0
+upgrade spike0 path 0
+upgrade spike0 path 2
+round 73
+upgrade engineer0 path 0
+round 74
+upgrade druid0 path 1
+round 80
+place alchemist alchemist0 at 1149, 656
+upgrade alchemist0 path 0
+upgrade alchemist0 path 0
+upgrade alchemist0 path 0
+round 86
+upgrade druid0 path 1
+round 88
+upgrade spike0 path 2
+upgrade alchemist0 path 2
+round 92
+upgrade alchemist0 path 0
+round 96
+upgrade spike0 path 2
+round 98
+place glue glue0 at 527, 447
+upgrade glue0 path 2
+upgrade glue0 path 2
+upgrade glue0 path 2
+upgrade glue0 path 2
+upgrade glue0 path 0
+upgrade glue0 path 0
