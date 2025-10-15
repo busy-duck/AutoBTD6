@@ -2525,5 +2525,31 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/midnight_mansion#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "alternate_bloons_rounds": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    829.3071439266205
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/midnight_mansion#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "impoppable": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1139.0156943798065
+                ]
+            }
+        },
+        "version": 50.0
     }
 }
