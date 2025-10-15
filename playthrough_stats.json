@@ -2349,5 +2349,63 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/rake#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "alternate_bloons_rounds": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    765.1668610572815
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/rake#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "impoppable": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1034.4001865386963
+                ]
+            },
+            "deflation": {
+                "attempts": 1,
+                "wins": 0,
+                "win_times": []
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/rake#chimps#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "chimps": {
+                "attempts": 6,
+                "wins": 1,
+                "win_times": [
+                    1060.1683039665222
+                ]
+            },
+            "apopalypse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    495.40329360961914
+                ]
+            },
+            "deflation": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    396.8869242668152
+                ]
+            }
+        },
+        "version": 50.0
     }
 }
