@@ -1,0 +1,57 @@
+place silas hero0 at 1228, 663
+place sub sub0 at 441, 785
+place sub sub1 at 341, 275
+place buccaneer buccaneer1 at 529, 901
+upgrade buccaneer1 path 2
+upgrade buccaneer1 path 2
+upgrade buccaneer1 path 1
+upgrade buccaneer1 path 1
+upgrade sub1 path 0
+upgrade sub1 path 0
+upgrade sub1 path 1
+upgrade sub1 path 1
+upgrade sub1 path 1
+upgrade sub0 path 0
+upgrade sub0 path 0
+upgrade sub0 path 2
+upgrade sub0 path 2
+upgrade sub0 path 2
+place ice ice0 at 392, 562
+place buccaneer buccaneer0 at 1022, 898
+upgrade buccaneer1 path 2
+upgrade sub0 path 2
+upgrade buccaneer1 path 2
+place village village0 at 1106, 790
+upgrade village0 path 2
+upgrade village0 path 2
+upgrade buccaneer0 path 0 with 15% discount
+upgrade buccaneer0 path 0 with 15% discount
+upgrade buccaneer0 path 0 with 15% discount
+upgrade buccaneer0 path 1 with 15% discount
+upgrade buccaneer0 path 1 with 15% discount
+upgrade village0 path 1
+upgrade village0 path 1
+upgrade buccaneer0 path 0
+upgrade ice0 path 0
+upgrade ice0 path 0
+upgrade ice0 path 0
+upgrade ice0 path 1
+upgrade ice0 path 1
+upgrade buccaneer0 path 0
+upgrade ice0 path 0
+place sniper sniper0 at 1019, 741
+upgrade sniper0 path 0 with 15% discount
+upgrade sniper0 path 0 with 15% discount
+upgrade sniper0 path 0 with 15% discount
+upgrade sniper0 path 1 with 15% discount
+upgrade sniper0 path 1 with 15% discount
+upgrade sniper0 path 0
+place boomerang boomerang0 at 932, 804
+upgrade boomerang0 path 2 with 15% discount
+upgrade boomerang0 path 2 with 15% discount
+upgrade boomerang0 path 0 with 15% discount
+upgrade boomerang0 path 0 with 15% discount
+upgrade boomerang0 path 0 with 15% discount
+upgrade boomerang0 path 0
+upgrade boomerang0 path 0
+upgrade sniper0 path 0

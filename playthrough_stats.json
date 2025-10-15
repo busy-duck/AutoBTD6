@@ -2551,5 +2551,18 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/peninsula#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "alternate_bloons_rounds": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    772.5990092754364
+                ]
+            }
+        },
+        "version": 50.0
     }
 }
