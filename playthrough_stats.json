@@ -2564,5 +2564,51 @@
             }
         },
         "version": 50.0
+    },
+    "playthroughs/quiet_street#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "alternate_bloons_rounds": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    857.7564587593079
+                ]
+            },
+            "easy": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    330.6761314868927
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/quiet_street#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "impoppable": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1120.2488460540771
+                ]
+            }
+        },
+        "version": 50.0
+    },
+    "playthroughs/quiet_street#chimps#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "chimps": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1229.199562072754
+                ]
+            }
+        },
+        "version": 50.0
     }
 }

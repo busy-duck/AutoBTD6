@@ -1,0 +1,55 @@
+place dart dart0 at 599, 719
+place dart dart1 at 435, 704
+place dart dart2 at 883, 160
+place etienne hero0 at 592, 388
+place boomerang boomerang0 at 365, 397
+upgrade boomerang0 path 2
+upgrade boomerang0 path 2
+upgrade boomerang0 path 0
+upgrade boomerang0 path 0
+place boomerang boomerang1 at 517, 395
+upgrade boomerang1 path 2
+upgrade boomerang1 path 2
+upgrade boomerang1 path 1
+upgrade boomerang1 path 1
+place wizard wizard0 at 441, 397
+upgrade wizard0 path 0
+upgrade wizard0 path 2
+upgrade wizard0 path 2
+upgrade boomerang0 path 0
+upgrade boomerang1 path 2
+upgrade boomerang1 path 2
+upgrade wizard0 path 2
+upgrade wizard0 path 0
+upgrade boomerang0 path 0
+place village village0 at 522, 301
+upgrade village0 path 0
+upgrade village0 path 0
+upgrade village0 path 0
+upgrade wizard0 path 2
+upgrade boomerang0 path 0
+upgrade village0 path 0
+upgrade village0 path 2
+upgrade village0 path 2
+place heli heli0 at 667, 201
+upgrade heli0 path 0 with 15% discount
+upgrade heli0 path 0 with 15% discount
+upgrade heli0 path 2 with 15% discount
+upgrade heli0 path 2 with 15% discount
+upgrade heli0 path 2 with 15% discount
+place alchemist alchemist0 at 429, 302
+upgrade alchemist0 path 0 with 15% discount
+upgrade alchemist0 path 0 with 15% discount
+upgrade alchemist0 path 0 with 15% discount
+upgrade alchemist0 path 1 with 15% discount
+upgrade alchemist0 path 1 with 15% discount
+upgrade alchemist0 path 0
+place alchemist alchemist1 at 621, 316
+upgrade alchemist1 path 0 with 15% discount
+upgrade alchemist1 path 0 with 15% discount
+upgrade alchemist1 path 0 with 15% discount
+upgrade alchemist1 path 1 with 15% discount
+upgrade alchemist1 path 1 with 15% discount
+upgrade alchemist1 path 0
+upgrade wizard0 path 2
+upgrade boomerang1 path 2
