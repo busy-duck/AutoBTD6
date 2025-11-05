@@ -1813,5 +1813,331 @@
         "1920x1080": {
             "validation_result": true
         }
+    },
+    "playthroughs/monkey_meadow#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    302.0768702030182
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/in_the_loop#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    300.70526599884033
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/three_mines_round#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    301.068398475647
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/spa_pits#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    297.06311321258545
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/tinkerton#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    296.41524505615234
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/tree_stump#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    300.0046031475067
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/tcenter#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    310.41464352607727
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/middle_of_the_road#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    299.8489511013031
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/one_two_tree#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    313.1085350513458
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/scrapyard#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    294.5138576030731
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/the_cabin#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    382.5424470901489
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/resort#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    295.63386368751526
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/skates#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    322.83076000213623
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/lotus_island#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    313.9501166343689
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/candy_falls#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    297.04989767074585
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/winter_park#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 2,
+                "wins": 2,
+                "win_times": [
+                    293.991690158844,
+                    295.4729743003845
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/carved#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    303.9823911190033
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/park_path#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    315.39161348342896
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/alpine_run#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    313.28163409233093
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/frozen_over#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    298.09269165992737
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/cubism#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    306.9485945701599
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/four_circles#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    294.99736762046814
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/hedge#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    298.80676078796387
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/end_of_the_road#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    292.75498819351196
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/logs#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    301.40309166908264
+                ]
+            }
+        },
+        "version": 51.0
     }
 }

@@ -9,7 +9,7 @@ Additionally the scripts allow you to record your own playthroughs to a textual 
 
 The scripts have only been tested on Windows.
 
-The config files (list of maps, monkey upgrade costs) are currently set up for **Bloons TD6 v<span id="version">50.0</span>**.
+The config files (list of maps, monkey upgrade costs) are currently set up for **Bloons TD6 v<span id="version">51.0</span>**.
 <br>
 If Ninja Kiwi releases a new major version of Bloons TD6 and the repository is outdated you can easily update it yourself.
 <br>
@@ -214,11 +214,12 @@ The `map` parameter can be one of the following:
 
 - `monkey_meadow`
 - `in_the_loop`
-- `middle_of_the_road`
+- `three_mines_round`
 - `spa_pits`
 - `tinkerton`
 - `tree_stump`
 - `town_center`
+- `middle_of_the_road`
 - `one_two_tree`
 - `scrapyard`
 - `the_cabin`
@@ -510,9 +511,9 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr style="border-top: 2px solid white">
 	<th>Monkey meadow</th>
-	<td rowspan=24>beginner</th>
-		<td><a href="playthroughs%2Fmonkey_meadow%23chimps%231920x1080.btd6" title="required monkeys: druid(1-3-0), heli(5-2-0), ice(2-0-5), dart(0-2-5)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23double_hp_moabs%231920x1080%23noMK%23noLL.btd6" title="required monkeys: heli(5-2-0), ace(4-0-0)"><i>supported, Sauda, military monkeys only, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23easy%232560x1440%23noMK%23noLL.btd6" title="required monkeys: engineer(4-2-0)">supported, Sauda, engineer only, support monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fmonkey_meadow%23half_cash%231920x1080%23noMK.btd6" title="required monkeys: tack(0-2-2), boomerang(4-0-2), bomb(0-3-0), dart(0-2-5), ice(2-0-0)"><i>supported, Sauda, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: engineer(4-2-5)"><i>supported, Etienne, engineer only, support monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23impoppable%231920x1080%23noMK%23noLL.btd6" title="required monkeys: ninja(2-0-5), wizard(5-0-2), druid(1-5-0)"><i>supported, Captain_churchill, magic monkeys only, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a></td>
-		<td><a href="playthroughs%2Fmonkey_meadow%23half_cash%231920x1080%23noMK.btd6" title="required monkeys: tack(0-2-2), boomerang(4-0-2), bomb(0-3-0), dart(0-2-5), ice(2-0-0)"><i>supported, Sauda, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a></td>
+	<td rowspan=25>beginner</th>
+		<td><a href="playthroughs%2Fmonkey_meadow%23chimps%231920x1080.btd6" title="required monkeys: druid(1-3-0), heli(5-2-0), ice(2-0-5), dart(0-2-5)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23double_hp_moabs%231920x1080%23noMK%23noLL.btd6" title="required monkeys: heli(5-2-0), ace(4-0-0)"><i>supported, Sauda, military monkeys only, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23easy%232560x1440%23noMK%23noLL.btd6" title="required monkeys: engineer(4-2-0)">supported, Sauda, engineer only, support monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fmonkey_meadow%23half_cash%231920x1080%23noMK.btd6" title="required monkeys: tack(0-2-2), boomerang(4-0-2), bomb(0-3-0), dart(0-2-5), ice(2-0-0)"><i>supported, Sauda, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: engineer(4-2-5)"><i>supported, Etienne, engineer only, support monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23impoppable%231920x1080%23noMK%23noLL.btd6" title="required monkeys: ninja(2-0-5), wizard(5-0-2), druid(1-5-0)"><i>supported, Captain_churchill, magic monkeys only, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fmonkey_meadow%23half_cash%231920x1080%23noMK.btd6" title="required monkeys: tack(0-2-2), boomerang(4-0-2), bomb(0-3-0), dart(0-2-5), ice(2-0-0)"><i>supported, Sauda, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td><a href="playthroughs%2Fmonkey_meadow%23deflation%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, Sauda, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
 		<td><a href="playthroughs%2Fmonkey_meadow%23chimps%231920x1080.btd6" title="required monkeys: druid(1-3-0), heli(5-2-0), ice(2-0-5), dart(0-2-5)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23double_hp_moabs%231920x1080%23noMK%23noLL.btd6" title="required monkeys: heli(5-2-0), ace(4-0-0)"><i>supported, Sauda, military monkeys only, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23half_cash%231920x1080%23noMK.btd6" title="required monkeys: tack(0-2-2), boomerang(4-0-2), bomb(0-3-0), dart(0-2-5), ice(2-0-0)"><i>supported, Sauda, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: engineer(4-2-5)"><i>supported, Etienne, engineer only, support monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fmonkey_meadow%23impoppable%231920x1080%23noMK%23noLL.btd6" title="required monkeys: ninja(2-0-5), wizard(5-0-2), druid(1-5-0)"><i>supported, Captain_churchill, magic monkeys only, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a></td>
 		<td><a href="playthroughs%2Fmonkey_meadow%23double_hp_moabs%231920x1080%23noMK%23noLL.btd6" title="required monkeys: heli(5-2-0), ace(4-0-0)"><i>supported, Sauda, military monkeys only, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a></td>
@@ -529,8 +530,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>In the loop</th>
-		<td><a href="playthroughs%2Fin_the_loop%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fin_the_loop%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fin_the_loop%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fin_the_loop%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fin_the_loop%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -546,27 +547,27 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 		<td></td>
 	</tr>
 	<tr>
-	<th>Middle of the road</th>
-		<td><a href="playthroughs%2Fmiddle_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(0-0-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
-		<td></td>
-		<td><a href="playthroughs%2Fmiddle_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(0-0-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td><a href="playthroughs%2Fmiddle_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(0-0-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
+	<th>Three mines round</th>
+		<td><a href="playthroughs%2Fthree_mines_round%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fthree_mines_round%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
-		<td><a href="playthroughs%2Fmiddle_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(0-0-0), heli(5-0-5), village(2-3-0), glue(0-2-4)">with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 	<th>Spa Pits</th>
-		<td><a href="playthroughs%2Fspa_pits%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fspa_pits%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fspa_pits%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fspa_pits%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fspa_pits%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -583,8 +584,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Tinkerton</th>
-		<td><a href="playthroughs%2Ftinkerton%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Ftinkerton%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ftinkerton%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Ftinkerton%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Ftinkerton%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -601,8 +602,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Tree stump</th>
-		<td><a href="playthroughs%2Ftree_stump%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ftree_stump%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
-		<td></td>
+		<td><a href="playthroughs%2Ftree_stump%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ftree_stump%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Ftree_stump%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Ftree_stump%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Ftree_stump%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -619,8 +620,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Town center</th>
-		<td><a href="playthroughs%2Ftown_center%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ftown_center%23easy%232560x1440%23noMK%23noLL.btd6" title="required monkeys: boomerang(4-0-2), wizard(0-2-4), bomb(2-4-0)">supported, -, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
-		<td></td>
+		<td><a href="playthroughs%2Ftown_center%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ftown_center%23easy%232560x1440%23noMK%23noLL.btd6" title="required monkeys: boomerang(4-0-2), wizard(0-2-4), bomb(2-4-0)">supported, -, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Ftown_center%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Ftown_center%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Ftown_center%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -636,9 +637,27 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 		<td></td>
 	</tr>
 	<tr>
-	<th>One two tree</th>
-		<td><a href="playthroughs%2Fone_two_tree%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-0-2), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
+	<th>Middle of the road</th>
+		<td><a href="playthroughs%2Fmiddle_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(0-0-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fmiddle_of_the_road%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fmiddle_of_the_road%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
+		<td><a href="playthroughs%2Fmiddle_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(0-0-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td><a href="playthroughs%2Fmiddle_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(0-0-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td><a href="playthroughs%2Fmiddle_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(0-0-0), heli(5-0-5), village(2-3-0), glue(0-2-4)">with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</a></td>
+		<td></td>
+	</tr>
+	<tr>
+	<th>One two tree</th>
+		<td><a href="playthroughs%2Fone_two_tree%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-0-2), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fone_two_tree%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fone_two_tree%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fone_two_tree%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-0-2), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -655,8 +674,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Scrapyard</th>
-		<td><a href="playthroughs%2Fscrapyard%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fscrapyard%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fscrapyard%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fscrapyard%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fscrapyard%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -673,8 +692,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>The cabin</th>
-		<td><a href="playthroughs%2Fthe_cabin%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-0-2), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a><br><br><a href="playthroughs%2Fthe_cabin%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fthe_cabin%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-0-2), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a><br><br><a href="playthroughs%2Fthe_cabin%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fthe_cabin%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fthe_cabin%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fthe_cabin%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-0-2), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 1920x1080, 2560x1440</i></a></td>
 		<td></td>
@@ -691,8 +710,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Resort</th>
-		<td><a href="playthroughs%2Fresort%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fresort%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fresort%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: buccaneer(5-4-0), ninja(2-0-4)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fresort%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fresort%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fresort%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: buccaneer(5-4-0), ninja(2-0-4)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fresort%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fresort%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fresort%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fresort%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: buccaneer(5-4-0), ninja(2-0-4)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -709,8 +728,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Skates</th>
-		<td><a href="playthroughs%2Fskates%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fskates%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fskates%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fskates%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fskates%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fskates%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fskates%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -727,8 +746,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Lotus island</th>
-		<td><a href="playthroughs%2Flotus_island%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Flotus_island%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
-		<td></td>
+		<td><a href="playthroughs%2Flotus_island%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Flotus_island%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Flotus_island%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Flotus_island%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Flotus_island%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -745,8 +764,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Candy falls</th>
-		<td><a href="playthroughs%2Fcandy_falls%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fcandy_falls%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcandy_falls%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fcandy_falls%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fcandy_falls%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -763,8 +782,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Winter park</th>
-		<td><a href="playthroughs%2Fwinter_park%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fwinter_park%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fwinter_park%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fwinter_park%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fwinter_park%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fwinter_park%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fwinter_park%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -781,8 +800,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Carved</th>
-		<td><a href="playthroughs%2Fcarved%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcarved%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fcarved%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcarved%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fcarved%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fcarved%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fcarved%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -799,8 +818,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Park path</th>
-		<td><a href="playthroughs%2Fpark_path%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fpark_path%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: buccaneer(5-4-0), ninja(2-0-4), heli(3-0-2), druid(3-1-0)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fpark_path%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fpark_path%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: buccaneer(5-4-0), ninja(2-0-4), heli(3-0-2), druid(3-1-0)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fpark_path%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fpark_path%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fpark_path%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fpark_path%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: buccaneer(5-4-0), ninja(2-0-4), heli(3-0-2), druid(3-1-0)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -817,8 +836,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Alpine run</th>
-		<td><a href="playthroughs%2Falpine_run%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Falpine_run%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
-		<td></td>
+		<td><a href="playthroughs%2Falpine_run%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Falpine_run%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Falpine_run%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Falpine_run%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Falpine_run%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -835,8 +854,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Frozen over</th>
-		<td><a href="playthroughs%2Ffrozen_over%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffrozen_over%23double_hp_moabs%232560x1440%23noMK.btd6" title="required monkeys: engineer(4-2-0), sniper(4-0-2), heli(4-0-3), buccaneer(5-2-0)"><i>supported, Etienne, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffrozen_over%23half_cash%232560x1440%23noMK%23noLLwMK.btd6" title="required monkeys: tack(4-0-2), buccaneer(4-2-0), village(1-2-0), heli(3-0-2), sniper(4-0-2)"><i>supported, Sauda, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffrozen_over%23magic_monkeys_only%232560x1440%23noMK.btd6" title="required monkeys: ninja(4-0-4), druid(3-0-2), super(3-2-0), wizard(0-2-5)"><i>supported, Etienne, magic monkeys only, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Ffrozen_over%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffrozen_over%23double_hp_moabs%232560x1440%23noMK.btd6" title="required monkeys: engineer(4-2-0), sniper(4-0-2), heli(4-0-3), buccaneer(5-2-0)"><i>supported, Etienne, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffrozen_over%23half_cash%232560x1440%23noMK%23noLLwMK.btd6" title="required monkeys: tack(4-0-2), buccaneer(4-2-0), village(1-2-0), heli(3-0-2), sniper(4-0-2)"><i>supported, Sauda, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffrozen_over%23magic_monkeys_only%232560x1440%23noMK.btd6" title="required monkeys: ninja(4-0-4), druid(3-0-2), super(3-2-0), wizard(0-2-5)"><i>supported, Etienne, magic monkeys only, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffrozen_over%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Ffrozen_over%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Ffrozen_over%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffrozen_over%23double_hp_moabs%232560x1440%23noMK.btd6" title="required monkeys: engineer(4-2-0), sniper(4-0-2), heli(4-0-3), buccaneer(5-2-0)"><i>supported, Etienne, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffrozen_over%23half_cash%232560x1440%23noMK%23noLLwMK.btd6" title="required monkeys: tack(4-0-2), buccaneer(4-2-0), village(1-2-0), heli(3-0-2), sniper(4-0-2)"><i>supported, Sauda, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffrozen_over%23magic_monkeys_only%232560x1440%23noMK.btd6" title="required monkeys: ninja(4-0-4), druid(3-0-2), super(3-2-0), wizard(0-2-5)"><i>supported, Etienne, magic monkeys only, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -853,8 +872,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Cubism</th>
-		<td><a href="playthroughs%2Fcubism%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcubism%23double_hp_moabs%232560x1440%23noMK%23noLL.btd6" title="required monkeys: tack(4-0-2), ninja(2-0-4), heli(4-0-3)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcubism%23half_cash%232560x1440%23noMK%23noLLwMK.btd6" title="required monkeys: tack(4-0-2), buccaneer(4-2-0), village(4-2-0), sniper(4-0-2)"><i>supported, Sauda, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcubism%23magic_monkeys_only%232560x1440%23noMK.btd6" title="required monkeys: wizard(0-4-4), druid(4-0-2), ninja(4-0-4), alchemist(0-2-5)"><i>supported, -, magic monkeys only, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fcubism%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcubism%23double_hp_moabs%232560x1440%23noMK%23noLL.btd6" title="required monkeys: tack(4-0-2), ninja(2-0-4), heli(4-0-3)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcubism%23half_cash%232560x1440%23noMK%23noLLwMK.btd6" title="required monkeys: tack(4-0-2), buccaneer(4-2-0), village(4-2-0), sniper(4-0-2)"><i>supported, Sauda, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcubism%23magic_monkeys_only%232560x1440%23noMK.btd6" title="required monkeys: wizard(0-4-4), druid(4-0-2), ninja(4-0-4), alchemist(0-2-5)"><i>supported, -, magic monkeys only, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcubism%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fcubism%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fcubism%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcubism%23double_hp_moabs%232560x1440%23noMK%23noLL.btd6" title="required monkeys: tack(4-0-2), ninja(2-0-4), heli(4-0-3)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcubism%23half_cash%232560x1440%23noMK%23noLLwMK.btd6" title="required monkeys: tack(4-0-2), buccaneer(4-2-0), village(4-2-0), sniper(4-0-2)"><i>supported, Sauda, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcubism%23magic_monkeys_only%232560x1440%23noMK.btd6" title="required monkeys: wizard(0-4-4), druid(4-0-2), ninja(4-0-4), alchemist(0-2-5)"><i>supported, -, magic monkeys only, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -871,8 +890,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Four circles</th>
-		<td><a href="playthroughs%2Ffour_circles%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Ffour_circles%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Ffour_circles%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Ffour_circles%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Ffour_circles%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -889,8 +908,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Hedge</th>
-		<td><a href="playthroughs%2Fhedge%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fhedge%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fhedge%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fhedge%23easy%232560x1440%23noMK%23ninjaOnly%23noLL.btd6" title="required monkeys: ninja(4-0-4)">supported, -, ninja only, magic monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fhedge%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fhedge%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fhedge%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -907,8 +926,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>End of the road</th>
-		<td><a href="playthroughs%2Fend_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Fend_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fend_of_the_road%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fend_of_the_road%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Fend_of_the_road%23chimps%231920x1080.btd6" title="required monkeys: sniper(4-2-0), heli(5-0-5), village(2-3-0), glue(0-2-4)"><i>with MK, Sauda, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -925,8 +944,8 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Logs</th>
-		<td><a href="playthroughs%2Flogs%23chimps%232560x1440%23noMK%23noLL.btd6" title="required monkeys: buccaneer(5-2-0), ninja(0-0-1), heli(4-0-3), ice(2-0-5), glue(5-0-2)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Flogs%23easy%232560x1440%23noMK%23buccaneerOnly%23noLL.btd6" title="required monkeys: buccaneer(0-4-2)">supported, -, buccaneer only, military monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Flogs%23impoppable%232560x1440%23noMK%23noLL.btd6" title="required monkeys: druid(2-5-0), village(5-2-0), dart(0-2-5), alchemist(4-0-2), tack(5-0-2)"><i>supported, Quincy, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
+		<td><a href="playthroughs%2Flogs%23chimps%232560x1440%23noMK%23noLL.btd6" title="required monkeys: buccaneer(5-2-0), ninja(0-0-1), heli(4-0-3), ice(2-0-5), glue(5-0-2)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Flogs%23easy%232560x1440%23noMK%23buccaneerOnly%23noLL.btd6" title="required monkeys: buccaneer(0-4-2)">supported, -, buccaneer only, military monkeys only, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Flogs%23impoppable%232560x1440%23noMK%23noLL.btd6" title="required monkeys: druid(2-5-0), village(5-2-0), dart(0-2-5), alchemist(4-0-2), tack(5-0-2)"><i>supported, Quincy, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Flogs%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)"><i>with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Flogs%23primary_only%231920x1080.btd6" title="required monkeys: boomerang(4-0-2), dart(0-2-4)">with MK, Quincy, primary monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td><a href="playthroughs%2Flogs%23chimps%232560x1440%23noMK%23noLL.btd6" title="required monkeys: buccaneer(5-2-0), ninja(0-0-1), heli(4-0-3), ice(2-0-5), glue(5-0-2)"><i>supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Flogs%23impoppable%232560x1440%23noMK%23noLL.btd6" title="required monkeys: druid(2-5-0), village(5-2-0), dart(0-2-5), alchemist(4-0-2), tack(5-0-2)"><i>supported, Quincy, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
 		<td></td>
@@ -1478,7 +1497,7 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 		<td></td>
 		<td></td>
 		<td></td>
-		<td><a href="playthroughs%2Fdark_path%23alternate_bloons_rounds%231920x1080.btd6" title="required monkeys: dart(0-0-0), glue(2-0-3), sniper(1-1-0), mortar(0-2-2), wizard(0-2-5), village(4-0-2), alchemist(4-3-0), boomerang(5-0-2), spike(0-2-5)">with MK, Ezili, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</a></td>
+		<td><a href="playthroughs%2Fdark_path%23alternate_bloons_rounds%231920x1080.btd6" title="required monkeys: glue(2-0-3), sniper(1-1-0), mortar(0-2-2), wizard(0-2-5), village(4-0-2), alchemist(4-3-0), boomerang(5-0-2), spike(0-2-5)">with MK, Ezili, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</a></td>
 		<td><a href="playthroughs%2Fdark_path%23impoppable%231920x1080.btd6" title="required monkeys: mortar(0-2-5), glue(2-0-4), sniper(5-2-0), tack(2-0-5), wizard(0-2-5), village(4-0-2), alchemist(5-3-0), boomerang(5-0-2), spike(0-2-5)">with MK, Benjamin, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</a></td>
 		<td><a href="playthroughs%2Fdark_path%23chimps%231920x1080.btd6" title="required monkeys: mortar(0-2-4), sniper(4-2-0), tack(2-0-4), wizard(0-2-5), village(4-0-2), alchemist(4-3-0), boomerang(5-0-2), glue(2-0-4), spike(0-2-5)">with MK, Psi, *, native: 1920x1080, tested for: 2560x1440, 1920x1080</a></td>
 		<td></td>
