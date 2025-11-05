@@ -2139,5 +2139,324 @@
             }
         },
         "version": 51.0
+    },
+    "playthroughs/lost_crevasse#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    293.9511947631836
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/luminous_cove#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    369.3012363910675
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/sulfur_springs#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    296.21018958091736
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/water_park#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    370.43358731269836
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/polyphemus#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    369.947696685791
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/covered_garden#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "easy": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    293.70519614219666
+                ]
+            },
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    293.1996247768402
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/quarry#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    363.3897545337677
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/quiet_street#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    329.92719864845276
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/bloonarius_prime#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    346.5577881336212
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/balance#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    342.2872245311737
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/encrypted#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    406.0045063495636
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/bazaar#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    364.7810113430023
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/adoras_temple#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    382.5898721218109
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/spring_spring#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    293.8890459537506
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/kartsndarts#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    293.13868856430054
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/moon_landing#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    355.671715259552
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/haunted#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    378.53744196891785
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/downstream#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    312.92228150367737
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/firing_range#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    416.38554787635803
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/cracked#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    314.090274810791
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/streambed#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    302.4117157459259
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/chutes#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    359.47351574897766
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/rake#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    341.5731244087219
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/spice_islands#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    306.4665491580963
+                ]
+            }
+        },
+        "version": 51.0
     }
 }
