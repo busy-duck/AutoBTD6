@@ -1,0 +1,30 @@
+place psi hero0 at 1050, 511
+place dart dart0 at 1549, 471
+place dart dart1 at 300, 478
+place dart dart2 at 712, 923
+upgrade dart0 path 0
+upgrade dart1 path 0
+upgrade dart2 path 0
+upgrade dart0 path 0
+upgrade dart0 path 0
+upgrade dart1 path 0
+upgrade dart1 path 0
+upgrade dart2 path 0
+upgrade dart2 path 0
+place dart dart3 at 285, 819
+upgrade dart0 path 2
+upgrade dart0 path 2
+upgrade dart1 path 2
+upgrade dart1 path 2
+upgrade dart2 path 2
+upgrade dart2 path 2
+upgrade dart0 path 0
+upgrade dart1 path 0
+upgrade dart2 path 0
+place tack tack0 at 923, 968
+upgrade tack0 path 2
+upgrade tack0 path 2
+upgrade tack0 path 2
+upgrade tack0 path 0
+upgrade tack0 path 0
+upgrade tack0 path 2

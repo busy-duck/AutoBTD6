@@ -1,0 +1,29 @@
+place obyn_greenfoot hero0 at 997, 492
+place dart dart0 at 916, 500
+upgrade dart0 path 1
+upgrade dart0 path 1
+upgrade dart0 path 2
+upgrade dart0 path 2
+upgrade dart0 path 2
+place boomerang boomerang0 at 1191, 402
+upgrade boomerang0 path 0
+upgrade boomerang0 path 0
+upgrade boomerang0 path 0
+upgrade boomerang0 path 2
+upgrade boomerang0 path 2
+upgrade boomerang0 path 0
+upgrade dart0 path 2
+place desperado desperado0 at 996, 425
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+upgrade desperado0 path 1
+upgrade desperado0 path 1
+place boomerang boomerang1 at 1191, 334
+upgrade boomerang1 path 2
+upgrade boomerang1 path 2
+upgrade boomerang1 path 2
+upgrade boomerang1 path 1
+upgrade boomerang1 path 1
+upgrade boomerang1 path 2
+upgrade desperado0 path 0

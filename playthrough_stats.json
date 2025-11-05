@@ -2725,5 +2725,135 @@
             }
         },
         "version": 51.0
+    },
+    "playthroughs/ravine#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    335.701055765152
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/flooded_valley#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    323.92887115478516
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/infernal#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    346.25950288772583
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/bloody_puddles#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    328.8165953159332
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/workshop#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    314.9675278663635
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/quad#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    326.3121519088745
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/dark_castle#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    327.1002519130707
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/muddy_puddles#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    324.16323804855347
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/dark_dungeons#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    345.7713112831116
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/ouch#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    324.47871494293213
+                ]
+            }
+        },
+        "version": 51.0
     }
 }

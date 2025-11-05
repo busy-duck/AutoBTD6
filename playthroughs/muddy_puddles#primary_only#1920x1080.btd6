@@ -1,0 +1,38 @@
+
+place psi hero0 at 423, 234
+place dart dart0 at 830, 560
+place dart dart1 at 1185, 553
+place desperado desperado0 at 977, 685
+place desperado desperado1 at 670, 471
+upgrade dart0 path 1
+upgrade dart0 path 1
+upgrade dart1 path 1
+upgrade dart1 path 1
+upgrade dart1 path 1
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+upgrade dart0 path 1
+place boomerang boomerang0 at 608, 372
+upgrade boomerang0 path 0
+upgrade boomerang0 path 0
+upgrade boomerang0 path 0
+upgrade boomerang0 path 2
+upgrade boomerang0 path 2
+place boomerang boomerang1 at 1170, 383
+upgrade boomerang1 path 0
+upgrade boomerang1 path 0
+upgrade boomerang1 path 0
+upgrade boomerang1 path 2
+upgrade boomerang1 path 2
+upgrade desperado1 path 0
+upgrade desperado1 path 0
+upgrade desperado1 path 0
+upgrade desperado0 path 0
+upgrade desperado1 path 1
+upgrade desperado1 path 1
+upgrade desperado0 path 1
+upgrade desperado0 path 1
+upgrade boomerang1 path 0
+upgrade desperado0 path 0
+upgrade dart1 path 2
+upgrade dart1 path 2
