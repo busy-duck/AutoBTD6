@@ -1,0 +1,36 @@
+place dart dart0 at 624, 235
+place benjamin hero0 at 1113, 693
+place boomerang boomerang0 at 627, 52
+upgrade dart0 path 0
+upgrade dart0 path 0
+upgrade dart0 path 0
+upgrade dart0 path 1
+upgrade dart0 path 1
+upgrade dart0 path 0
+upgrade boomerang0 path 2
+upgrade boomerang0 path 2
+upgrade boomerang0 path 2
+upgrade boomerang0 path 1
+upgrade boomerang0 path 1
+place boomerang boomerang1 at 727, 52
+upgrade boomerang1 path 0
+upgrade boomerang1 path 0
+upgrade boomerang1 path 0
+upgrade boomerang1 path 2
+upgrade boomerang1 path 2
+upgrade boomerang1 path 0
+place dart dart1 at 1064, 49
+upgrade dart1 path 2
+upgrade dart1 path 2
+upgrade dart1 path 2
+upgrade dart1 path 1
+upgrade dart1 path 1
+upgrade dart1 path 2
+upgrade boomerang0 path 2
+place dart dart2 at 520, 229
+upgrade dart2 path 2
+upgrade dart2 path 2
+upgrade dart2 path 2
+upgrade dart2 path 1
+upgrade dart2 path 1
+upgrade dart2 path 2

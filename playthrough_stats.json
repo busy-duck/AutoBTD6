@@ -2458,5 +2458,272 @@
             }
         },
         "version": 51.0
+    },
+    "playthroughs/sunset_gulch#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    320.16360878944397
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/enchanted_glade#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    366.0264811515808
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/last_resort#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "easy": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    271.14683270454407
+                ]
+            },
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    313.5718011856079
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/ancient_portal#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    298.06270265579224
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/castle_revenge#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    354.3176395893097
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/dark_path#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    329.0987026691437
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/erosion#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    352.5551714897156
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/midnight_mansion#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    333.672958612442
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/sunken_columns#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    296.03711771965027
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/x_factor#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    357.1428792476654
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/mesa#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    348.48206424713135
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/spillway#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    334.6780421733856
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/cargo#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    344.05070781707764
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/pats_pond#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": false,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    384.475811958313
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/peninsula#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    328.1813533306122
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/high_finance#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    344.0941562652588
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/another_brick#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    296.10301637649536
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/off_the_coast#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    309.5305001735687
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/cornfield#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    376.47250866889954
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/underground#primary_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "primary_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    319.68379521369934
+                ]
+            }
+        },
+        "version": 51.0
     }
 }

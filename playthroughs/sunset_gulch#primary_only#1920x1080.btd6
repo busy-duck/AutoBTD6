@@ -1,0 +1,22 @@
+place quincy hero0 at 356, 488
+place boomerang boomerang0 at 213, 488
+upgrade boomerang0 path 0
+upgrade boomerang0 path 0
+upgrade boomerang0 path 0
+upgrade boomerang0 path 2
+upgrade boomerang0 path 2
+upgrade boomerang0 path 0
+place dart dart0 at 375, 558
+upgrade dart0 path 2
+upgrade dart0 path 2
+upgrade dart0 path 2
+upgrade dart0 path 1
+upgrade dart0 path 1
+upgrade dart0 path 2
+place boomerang boomerang1 at 1294, 492
+upgrade boomerang1 path 0
+upgrade boomerang1 path 0
+upgrade boomerang1 path 0
+upgrade boomerang1 path 2
+upgrade boomerang1 path 2
+upgrade boomerang1 path 0
