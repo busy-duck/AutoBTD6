@@ -1,0 +1,99 @@
+place sub sub0 at 410, 880
+place dart dart0 at 226, 790
+retarget dart0
+retarget dart0
+retarget dart0
+place benjamin hero0 at 1235, 61
+upgrade dart0 path 2
+upgrade dart0 path 2
+upgrade sub0 path 1
+upgrade sub0 path 1
+upgrade sub0 path 0
+upgrade sub0 path 0
+place sub sub1 at 167, 733
+upgrade sub1 path 2
+upgrade sub1 path 2
+upgrade sub1 path 0
+upgrade sub1 path 0
+place desperado desperado0 at 653, 532
+upgrade desperado0 path 1
+upgrade sub0 path 1
+place desperado desperado1 at 344, 304
+upgrade desperado1 path 1
+upgrade sub1 path 2
+upgrade sub1 path 2
+place desperado desperado2 at 1336, 713
+upgrade desperado2 path 1
+place sub sub2 at 278, 997
+upgrade sub2 path 0
+upgrade sub2 path 0
+upgrade sub2 path 1
+upgrade sub2 path 1
+upgrade sub2 path 1
+place sub sub3 at 93, 901
+upgrade sub3 path 0
+upgrade sub3 path 0
+upgrade sub3 path 2
+upgrade sub3 path 2
+upgrade sub3 path 2
+upgrade sub3 path 2
+round 36
+place buccaneer buccaneer0 at 773, 657
+upgrade buccaneer0 path 1
+upgrade buccaneer0 path 1
+upgrade buccaneer0 path 0
+upgrade buccaneer0 path 0
+place sub sub4 at 442, 382
+upgrade sub4 path 0
+upgrade sub4 path 0
+upgrade sub4 path 0
+upgrade buccaneer0 path 0
+upgrade buccaneer0 path 0
+place desperado desperado3 at 848, 365
+upgrade desperado3 path 1
+place desperado desperado4 at 1060, 212
+upgrade desperado4 path 1
+place desperado desperado5 at 1337, 426
+upgrade desperado5 path 1
+round 54
+place sub sub5 at 939, 438
+upgrade sub5 path 0
+upgrade sub5 path 0
+upgrade sub5 path 0
+upgrade sub5 path 0
+sell sub4
+place buccaneer buccaneer1 at 1026, 559
+upgrade buccaneer1 path 1
+upgrade buccaneer1 path 1
+upgrade buccaneer1 path 0
+upgrade buccaneer1 path 0
+upgrade buccaneer1 path 0
+upgrade buccaneer1 path 0
+place ice ice0 at 797, 184
+upgrade ice0 path 2
+upgrade ice0 path 2
+upgrade ice0 path 2
+upgrade ice0 path 0
+upgrade ice0 path 0
+upgrade ice0 path 2
+upgrade buccaneer1 path 0
+round 72
+place sub sub6 at 967, 166
+upgrade sub6 path 0
+upgrade sub6 path 0
+upgrade sub6 path 0
+upgrade sub6 path 0
+sell sub5
+place ice ice1 at 1176, 431
+upgrade ice1 path 0
+upgrade ice1 path 0
+upgrade ice1 path 2
+upgrade ice1 path 2
+upgrade ice1 path 2
+upgrade ice1 path 2
+upgrade desperado4 path 0
+upgrade desperado4 path 0
+upgrade desperado4 path 0
+upgrade desperado4 path 0
+upgrade desperado4 path 1
+upgrade desperado4 path 0

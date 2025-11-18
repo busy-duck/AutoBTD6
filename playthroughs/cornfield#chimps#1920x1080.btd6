@@ -1,0 +1,54 @@
+place quincy hero0 at 759, 488
+place dart dart0 at 760, 627
+upgrade dart0 path 1
+upgrade dart0 path 0
+upgrade dart0 path 0
+upgrade dart0 path 0
+speed slow
+upgrade dart0 path 0
+upgrade dart0 path 1
+speed fast
+place village village0 at 870, 591
+upgrade village0 path 1
+upgrade village0 path 1
+upgrade village0 path 2
+upgrade village0 path 2
+remove obstacle at 843, 695 for 700
+place village village1 at 826, 689
+upgrade village1 path 2 with 15% discount
+upgrade village1 path 2 with 15% discount
+upgrade village1 path 0 with 15% discount
+upgrade village1 path 0 with 15% discount
+upgrade village1 path 0 with 15% discount
+place desperado desperado0 at 873, 766
+upgrade desperado0 path 0 with 20% discount
+upgrade desperado0 path 0 with 20% discount
+upgrade desperado0 path 0 with 20% discount
+upgrade dart0 path 0
+upgrade village1 path 0
+upgrade village1 path 0
+place tack tack0 at 786, 551
+upgrade tack0 path 0 with 100% discount
+upgrade tack0 path 0 with 100% discount
+upgrade tack0 path 0 with 20% discount
+upgrade tack0 path 1 with 100% discount
+upgrade tack0 path 1 with 100% discount
+upgrade tack0 path 0
+place glue glue0 at 767, 751
+upgrade glue0 path 2 with 100% discount
+upgrade glue0 path 2 with 100% discount
+upgrade glue0 path 2 with 20% discount
+upgrade glue0 path 0 with 100% discount
+upgrade glue0 path 0 with 100% discount
+upgrade tack0 path 0
+upgrade glue0 path 2
+upgrade glue0 path 2
+upgrade desperado0 path 1 with 100% discount
+upgrade desperado0 path 1 with 100% discount
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+place alchemist alchemist0 at 886, 481
+upgrade alchemist0 path 0 with 20% discount
+upgrade alchemist0 path 0 with 20% discount
+upgrade alchemist0 path 0 with 20% discount
+upgrade alchemist0 path 1 with 20% discount

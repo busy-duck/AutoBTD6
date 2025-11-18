@@ -1,0 +1,89 @@
+place sub sub0 at 410, 880
+place dart dart0 at 226, 790
+retarget dart0
+retarget dart0
+retarget dart0
+upgrade sub0 path 2
+upgrade sub0 path 2
+upgrade sub0 path 0
+upgrade sub0 path 0
+place ninja ninja0 at 344, 304
+speed slow
+place psi hero0 at 1235, 61
+retarget hero0
+retarget hero0
+retarget hero0
+speed fast
+place sniper sniper0 at 630, 149
+retarget sniper0
+retarget sniper0
+retarget sniper0
+upgrade sniper0 path 0
+place sniper sniper1 at 1593, 219
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+upgrade sniper1 path 1
+upgrade sniper1 path 1
+upgrade sniper1 path 2
+upgrade sniper1 path 2
+place village village0 at 1468, 230
+upgrade village0 path 2
+upgrade village0 path 2
+place alchemist alchemist0 at 1587, 159
+upgrade alchemist0 path 0 with 15% discount
+upgrade alchemist0 path 0 with 15% discount
+upgrade alchemist0 path 1 with 15% discount
+upgrade alchemist0 path 1 with 15% discount
+upgrade alchemist0 path 0 with 15% discount
+upgrade alchemist0 path 0
+upgrade sniper1 path 2
+place village village1 at 1523, 82
+upgrade village1 path 0 with 15% discount
+upgrade village1 path 0 with 15% discount
+upgrade village1 path 1 with 15% discount
+upgrade village1 path 1 with 15% discount
+upgrade village1 path 1 with 15% discount
+place ice ice0 at 1374, 233
+upgrade ice0 path 2 with 15% discount
+upgrade ice0 path 2 with 15% discount
+upgrade ice0 path 2 with 15% discount
+upgrade ice0 path 1 with 15% discount
+upgrade ice0 path 1 with 15% discount
+upgrade ice0 path 2
+upgrade ice0 path 2
+place glue glue0 at 1431, 118
+upgrade glue0 path 0 with 15% discount
+upgrade glue0 path 0 with 15% discount
+upgrade glue0 path 0 with 15% discount
+upgrade glue0 path 2 with 15% discount
+upgrade glue0 path 2 with 15% discount
+upgrade glue0 path 0
+place alchemist alchemist1 at 1362, 124
+upgrade alchemist1 path 0 with 15% discount
+upgrade alchemist1 path 0 with 15% discount
+upgrade alchemist1 path 0 with 15% discount
+upgrade alchemist1 path 1 with 15% discount
+upgrade alchemist1 path 1 with 15% discount
+upgrade alchemist1 path 0
+place boomerang boomerang0 at 1332, 68
+retarget boomerang0
+retarget boomerang0
+retarget boomerang0
+upgrade boomerang0 path 2 with 15% discount
+upgrade boomerang0 path 2 with 15% discount
+upgrade boomerang0 path 2 with 15% discount
+upgrade boomerang0 path 1 with 15% discount
+upgrade boomerang0 path 1 with 15% discount
+upgrade boomerang0 path 2
+upgrade glue0 path 0
+round 90
+place mermonkey mermonkey0 at 1468, 230
+upgrade mermonkey0 path 2
+upgrade mermonkey0 path 2
+upgrade mermonkey0 path 2
+upgrade mermonkey0 path 2
+upgrade mermonkey0 path 0
+upgrade mermonkey0 path 0
+upgrade mermonkey0 path 2
+upgrade sub0 path 2
+upgrade sub0 path 2

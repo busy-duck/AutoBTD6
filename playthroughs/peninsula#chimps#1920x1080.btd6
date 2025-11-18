@@ -1,0 +1,105 @@
+place dart dart0 at 1071, 789
+retarget dart0
+place dart dart1 at 1125, 744
+place dart dart2 at 1135, 801
+upgrade dart0 path 1
+upgrade dart0 path 1
+place sniper sniper0 at 838, 256
+retarget sniper0
+retarget sniper0
+retarget sniper0
+place sub sub0 at 500, 851
+place sub sub1 at 1231, 674
+retarget sub0
+retarget sub0
+retarget sub0
+place silas hero0 at 1311, 457
+upgrade dart0 path 1
+upgrade dart0 path 0
+upgrade sniper0 path 2
+upgrade sniper0 path 2
+retarget sniper0
+upgrade sniper0 path 1
+upgrade sniper0 path 1
+upgrade sniper0 path 2
+place ice ice0 at 394, 533
+upgrade ice0 path 2
+upgrade sniper0 path 2
+place village village0 at 1379, 511
+upgrade village0 path 2
+upgrade village0 path 2
+place ice ice1 at 1269, 556
+upgrade ice1 path 2 with 15% discount
+upgrade ice1 path 2 with 15% discount
+upgrade ice1 path 2 with 15% discount
+upgrade ice1 path 1 with 15% discount
+upgrade ice1 path 2
+place village village1 at 798, 177
+upgrade village1 path 2
+upgrade village1 path 2
+place alchemist alchemist0 at 890, 201
+upgrade alchemist0 path 0 with 15% discount
+upgrade alchemist0 path 0 with 15% discount
+upgrade alchemist0 path 0 with 15% discount
+upgrade alchemist0 path 1 with 15% discount
+upgrade alchemist0 path 1 with 15% discount
+upgrade village1 path 0
+upgrade village1 path 0
+remove obstacle at 1460, 184 for 500
+place spike spike0 at 1431, 173
+upgrade spike0 path 2
+upgrade spike0 path 2
+retarget spike0
+retarget spike0
+upgrade spike0 path 0
+upgrade spike0 path 0
+upgrade spike0 path 2
+retarget sniper0
+retarget sniper0
+retarget sniper0
+upgrade spike0 path 2
+upgrade alchemist0 path 0
+upgrade ice0 path 0
+upgrade ice0 path 0
+upgrade ice0 path 0
+place village village2 at 1419, 413
+upgrade village2 path 2 with 15% discount
+upgrade village2 path 2 with 15% discount
+upgrade village0 path 0 with 15% discount
+upgrade village0 path 0 with 15% discount
+upgrade village0 path 0 with 15% discount
+upgrade village0 path 0
+place glue glue0 at 1247, 488
+upgrade glue0 path 0 with 100% discount
+upgrade glue0 path 0 with 20% discount
+upgrade glue0 path 0 with 20% discount
+upgrade glue0 path 2 with 100% discount
+upgrade glue0 path 2 with 20% discount
+upgrade glue0 path 0
+upgrade village2 path 1 with 15% discount
+upgrade village2 path 1 with 15% discount
+upgrade ice0 path 0
+upgrade ice1 path 1 with 20% discount
+upgrade ice1 path 2 with 25% discount
+upgrade village2 path 1 with 15% discount
+upgrade glue0 path 0
+place alchemist alchemist1 at 1454, 240
+upgrade alchemist1 path 0 with 20% discount
+upgrade alchemist1 path 0 with 20% discount
+upgrade alchemist1 path 0 with 20% discount
+upgrade alchemist1 path 1 with 20% discount
+upgrade alchemist1 path 1 with 20% discount
+place boomerang boomerang0 at 1290, 388
+upgrade boomerang0 path 2 with 100% discount
+upgrade boomerang0 path 2 with 20% discount
+upgrade boomerang0 path 2 with 20% discount
+upgrade boomerang0 path 1 with 100% discount
+upgrade boomerang0 path 1 with 20% discount
+upgrade boomerang0 path 2
+place mermonkey mermonkey0 at 1345, 333
+upgrade mermonkey0 path 2 with 20% discount
+upgrade mermonkey0 path 2 with 20% discount
+upgrade mermonkey0 path 2 with 20% discount
+upgrade mermonkey0 path 2
+upgrade mermonkey0 path 2
+upgrade alchemist1 path 0

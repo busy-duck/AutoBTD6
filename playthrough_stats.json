@@ -990,7 +990,7 @@
         }
     },
     "playthroughs/ouch#hard#2560x1440.btd6": {
-        "version": 32.0,
+        "version": 51.0,
         "2560x1440": {
             "validation_result": true,
             "hard": {
@@ -1015,6 +1015,20 @@
                 "wins": 1,
                 "win_times": [
                     366.9351706504822
+                ]
+            },
+            "medium": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    548.6962087154388
+                ]
+            },
+            "hard": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    836.2193431854248
                 ]
             }
         }
@@ -1598,8 +1612,17 @@
             "validation_result": true
         },
         "1920x1080": {
-            "validation_result": true
-        }
+            "validation_result": true,
+            "chimps": {
+                "attempts": 2,
+                "wins": 2,
+                "win_times": [
+                    1159.4372160434723,
+                    1170.52441573143
+                ]
+            }
+        },
+        "version": 51.0
     },
     "playthroughs/sunset_gulch#chimps#1920x1080.btd6": {
         "2560x1440": {
@@ -1922,6 +1945,299 @@
                 "wins": 1,
                 "win_times": [
                     858.6141374111176
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/erosion#chimps#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": false,
+            "easy": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    355.07757902145386
+                ]
+            },
+            "medium": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    557.8215284347534
+                ]
+            },
+            "reverse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    553.2669377326965
+                ]
+            },
+            "hard": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    754.26109790802
+                ]
+            },
+            "chimps": {
+                "attempts": 2,
+                "wins": 1,
+                "win_times": [
+                    1105.345220565796
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/erosion#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": false,
+            "alternate_bloons_rounds": {
+                "attempts": 2,
+                "wins": 1,
+                "win_times": [
+                    785.9861860275269
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/erosion#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": false,
+            "impoppable": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1239.4239490032196
+                ]
+            },
+            "double_hp_moabs": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    768.3997583389282
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/erosion#magic_monkeys_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "magic_monkeys_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    788.5190529823303
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/peninsula#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": false,
+            "alternate_bloons_rounds": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    772.8012475967407
+                ]
+            },
+            "double_hp_moabs": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    818.0244739055634
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/peninsula#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": false,
+            "impoppable": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1016.4019939899445
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/peninsula#chimps#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "chimps": {
+                "attempts": 2,
+                "wins": 2,
+                "win_times": [
+                    1318.1073622703552,
+                    1815.3596532344818
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/cornfield#chimps#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "chimps": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1387.0452234745026
+                ]
+            },
+            "hard": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1154.2049765586853
+                ]
+            },
+            "medium": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    838.8793075084686
+                ]
+            },
+            "reverse": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    812.391294002533
+                ]
+            },
+            "easy": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    432.99358320236206
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/cornfield#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "impoppable": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1157.9658303260803
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/cornfield#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "alternate_bloons_rounds": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    902.5498759746552
+                ]
+            },
+            "double_hp_moabs": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    918.1049861907959
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/cornfield#magic_monkeys_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": false,
+            "magic_monkeys_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    959.4606120586395
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/peninsula#magic_monkeys_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": false,
+            "magic_monkeys_only": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    837.3559172153473
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/infernal#alternate_bloons_rounds#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "alternate_bloons_rounds": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    791.7398366928101
+                ]
+            },
+            "double_hp_moabs": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    860.6288695335388
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/infernal#impoppable#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "impoppable": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1146.6972868442535
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/infernal#chimps#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": false,
+            "chimps": {
+                "attempts": 1,
+                "wins": 1,
+                "win_times": [
+                    1020.5984537601471
+                ]
+            }
+        },
+        "version": 51.0
+    },
+    "playthroughs/infernal#magic_monkeys_only#1920x1080.btd6": {
+        "1920x1080": {
+            "validation_result": true,
+            "magic_monkeys_only": {
+                "attempts": 2,
+                "wins": 1,
+                "win_times": [
+                    857.8348321914673
                 ]
             }
         },

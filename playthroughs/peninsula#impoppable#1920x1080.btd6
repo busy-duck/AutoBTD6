@@ -1,0 +1,92 @@
+place sub sub0 at 1231, 674
+place dart dart0 at 1135, 752
+retarget dart0
+retarget dart0
+retarget dart0
+place sub sub1 at 471, 831
+place buccaneer buccaneer0 at 352, 305
+place benjamin hero0 at 834, 160
+upgrade buccaneer0 path 1
+upgrade buccaneer0 path 1
+upgrade sub1 path 0
+upgrade sub1 path 0
+upgrade sub1 path 2
+upgrade dart0 path 2
+upgrade dart0 path 2
+upgrade sub0 path 1
+upgrade sub0 path 1
+upgrade sub0 path 0
+upgrade sub0 path 0
+upgrade sub1 path 2
+upgrade sub0 path 1
+place desperado desperado0 at 1097, 817
+upgrade desperado0 path 1
+upgrade sub1 path 2
+upgrade sub1 path 2
+place sub sub2 at 1346, 317
+upgrade sub2 path 0
+upgrade sub2 path 0
+upgrade sub2 path 1
+upgrade sub2 path 1
+upgrade sub2 path 1
+upgrade buccaneer0 path 2
+upgrade buccaneer0 path 2
+upgrade buccaneer0 path 2
+place sub sub3 at 1028, 904
+upgrade sub3 path 0
+upgrade sub3 path 0
+upgrade sub3 path 2
+upgrade sub3 path 2
+upgrade sub3 path 2
+upgrade sub3 path 2
+upgrade buccaneer0 path 2
+place sub sub4 at 297, 187
+upgrade sub4 path 0
+upgrade sub4 path 0
+upgrade sub4 path 0
+upgrade sub4 path 0
+place buccaneer buccaneer1 at 413, 739
+upgrade buccaneer1 path 1
+upgrade buccaneer1 path 1
+upgrade buccaneer1 path 0
+upgrade buccaneer1 path 0
+upgrade buccaneer1 path 0
+upgrade buccaneer1 path 0
+place ice ice0 at 1307, 481
+upgrade ice0 path 2
+upgrade ice0 path 2
+upgrade ice0 path 2
+upgrade ice0 path 0
+upgrade ice0 path 0
+upgrade ice0 path 2
+upgrade buccaneer1 path 0
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+upgrade desperado0 path 0
+upgrade desperado0 path 1
+upgrade desperado0 path 0
+upgrade sub2 path 1
+upgrade sub0 path 1
+place wizard wizard0 at 418, 593
+upgrade wizard0 path 0
+upgrade wizard0 path 0
+upgrade wizard0 path 0
+upgrade wizard0 path 1
+upgrade wizard0 path 1
+upgrade wizard0 path 0
+remove obstacle at 1460, 184 for 500
+place spike spike0 at 1455, 189
+upgrade spike0 path 2
+upgrade spike0 path 2
+retarget spike0
+retarget spike0
+upgrade spike0 path 0
+upgrade spike0 path 0
+upgrade spike0 path 2
+upgrade spike0 path 2
+upgrade wizard0 path 0
+upgrade sub1 path 2
+upgrade ice0 path 2
+upgrade spike0 path 2
+upgrade buccaneer0 path 2

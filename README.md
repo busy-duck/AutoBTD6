@@ -1504,38 +1504,38 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Erosion</th>
+		<td><a href="playthroughs%2Ferosion%23chimps%231920x1080.btd6" title="required monkeys: sub(2-0-4), dart(0-0-0), ninja(0-0-0), sniper(1-2-5), village(2-3-2), alchemist(4-2-0), ice(0-2-5), glue(5-0-2), boomerang(0-2-4), mermonkey(2-0-5)"><i>with MK, Psi, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Ferosion%23impoppable%231920x1080.btd6" title="required monkeys: sub(4-3-5), dart(0-0-2), desperado(5-2-0), buccaneer(5-2-0), ice(2-0-5), village(4-2-0), glue(5-0-2), boomerang(0-2-4), spike(2-0-4), alchemist(4-2-0), mermonkey(2-0-5)"><i>with MK, Benjamin, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Ferosion%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: druid(2-4-0), ninja(4-2-4), mermonkey(5-0-4)"><i>with MK, Benjamin, magic monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td></td>
+		<td></td>
+		<td><a href="playthroughs%2Ferosion%23chimps%231920x1080.btd6" title="required monkeys: sub(2-0-4), dart(0-0-0), ninja(0-0-0), sniper(1-2-5), village(2-3-2), alchemist(4-2-0), ice(0-2-5), glue(5-0-2), boomerang(0-2-4), mermonkey(2-0-5)"><i>with MK, Psi, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Ferosion%23impoppable%231920x1080.btd6" title="required monkeys: sub(4-3-5), dart(0-0-2), desperado(5-2-0), buccaneer(5-2-0), ice(2-0-5), village(4-2-0), glue(5-0-2), boomerang(0-2-4), spike(2-0-4), alchemist(4-2-0), mermonkey(2-0-5)"><i>with MK, Benjamin, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Ferosion%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: druid(2-4-0), ninja(4-2-4), mermonkey(5-0-4)"><i>with MK, Benjamin, magic monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
 		<td></td>
 		<td></td>
 		<td></td>
+		<td><a href="playthroughs%2Ferosion%23chimps%231920x1080.btd6" title="required monkeys: sub(2-0-4), dart(0-0-0), ninja(0-0-0), sniper(1-2-5), village(2-3-2), alchemist(4-2-0), ice(0-2-5), glue(5-0-2), boomerang(0-2-4), mermonkey(2-0-5)"><i>with MK, Psi, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Ferosion%23impoppable%231920x1080.btd6" title="required monkeys: sub(4-3-5), dart(0-0-2), desperado(5-2-0), buccaneer(5-2-0), ice(2-0-5), village(4-2-0), glue(5-0-2), boomerang(0-2-4), spike(2-0-4), alchemist(4-2-0), mermonkey(2-0-5)"><i>with MK, Benjamin, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Ferosion%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: druid(2-4-0), ninja(4-2-4), mermonkey(5-0-4)"><i>with MK, Benjamin, magic monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Ferosion%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: druid(2-4-0), ninja(4-2-4), mermonkey(5-0-4)">with MK, Benjamin, magic monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><a href="playthroughs%2Ferosion%23alternate_bloons_rounds%231920x1080.btd6" title="required monkeys: sub(4-3-4), dart(0-0-2), desperado(5-2-0), buccaneer(5-2-0), ice(2-0-4)">with MK, Benjamin, *, native: 1920x1080</a></td>
+		<td><a href="playthroughs%2Ferosion%23impoppable%231920x1080.btd6" title="required monkeys: sub(4-3-5), dart(0-0-2), desperado(5-2-0), buccaneer(5-2-0), ice(2-0-5), village(4-2-0), glue(5-0-2), boomerang(0-2-4), spike(2-0-4), alchemist(4-2-0), mermonkey(2-0-5)">with MK, Benjamin, *, native: 1920x1080</a></td>
+		<td><a href="playthroughs%2Ferosion%23chimps%231920x1080.btd6" title="required monkeys: sub(2-0-4), dart(0-0-0), ninja(0-0-0), sniper(1-2-5), village(2-3-2), alchemist(4-2-0), ice(0-2-5), glue(5-0-2), boomerang(0-2-4), mermonkey(2-0-5)">with MK, Psi, *, native: 1920x1080</a></td>
 		<td></td>
 	</tr>
 	<tr>
 	<th>Midnight mansion</th>
+		<td><a href="playthroughs%2Fmidnight_mansion%23chimps%231920x1080.btd6" title="required monkeys: dart(0-0-0), druid(1-3-0), sniper(0-2-5), village(4-2-0), tack(2-0-5), ice(5-1-0), glue(5-2-0), desperado(5-2-0), alchemist(4-2-0)"><i>with MK, Gwendolin, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Fmidnight_mansion%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(4-0-4), druid(2-5-0), alchemist(4-2-0)"><i>with MK, Obyn_greenfoot, magic monkeys only, *, native: 1920x1080</i></a></td>
+		<td></td>
+		<td></td>
+		<td><a href="playthroughs%2Fmidnight_mansion%23chimps%231920x1080.btd6" title="required monkeys: dart(0-0-0), druid(1-3-0), sniper(0-2-5), village(4-2-0), tack(2-0-5), ice(5-1-0), glue(5-2-0), desperado(5-2-0), alchemist(4-2-0)"><i>with MK, Gwendolin, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Fmidnight_mansion%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(4-0-4), druid(2-5-0), alchemist(4-2-0)"><i>with MK, Obyn_greenfoot, magic monkeys only, *, native: 1920x1080</i></a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td><a href="playthroughs%2Fmidnight_mansion%23chimps%231920x1080.btd6" title="required monkeys: dart(0-0-0), druid(1-3-0), sniper(0-2-5), village(4-2-0), tack(2-0-5), ice(5-1-0), glue(5-2-0), desperado(5-2-0), alchemist(4-2-0)"><i>with MK, Gwendolin, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Fmidnight_mansion%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(4-0-4), druid(2-5-0), alchemist(4-2-0)"><i>with MK, Obyn_greenfoot, magic monkeys only, *, native: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fmidnight_mansion%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(4-0-4), druid(2-5-0), alchemist(4-2-0)">with MK, Obyn_greenfoot, magic monkeys only, *, native: 1920x1080</a></td>
 		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><a href="playthroughs%2Fmidnight_mansion%23chimps%231920x1080.btd6" title="required monkeys: dart(0-0-0), druid(1-3-0), sniper(0-2-5), village(4-2-0), tack(2-0-5), ice(5-1-0), glue(5-2-0), desperado(5-2-0), alchemist(4-2-0)">with MK, Gwendolin, *, native: 1920x1080</a></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -1666,20 +1666,20 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Peninsula</th>
-		<td><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noLLwMK.btd6" title="required monkeys: buccaneer(4-4-0), sniper(4-0-2), heli(4-0-4), tack(4-0-2)"><i>with MK, Etienne, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noMK%23noLL%23chimpsPotential.btd6" title="required monkeys: dart(0-0-2), sniper(4-5-2), spike(0-2-5), alchemist(4-3-1), village(4-0-2), boomerang(2-0-4), glue(0-2-3)"><i>supported, Psi, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fpeninsula%23chimps%231920x1080.btd6" title="required monkeys: dart(1-3-0), sniper(0-2-4), sub(0-0-0), ice(4-2-5), village(4-3-2), alchemist(4-2-0), spike(2-0-4), glue(5-0-2), boomerang(0-2-4), mermonkey(0-0-5)"><i>with MK, Silas, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noLLwMK.btd6" title="required monkeys: buccaneer(4-4-0), sniper(4-0-2), heli(4-0-4), tack(4-0-2)"><i>with MK, Etienne, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noMK%23noLL%23chimpsPotential.btd6" title="required monkeys: dart(0-0-2), sniper(4-5-2), spike(0-2-5), alchemist(4-3-1), village(4-0-2), boomerang(2-0-4), glue(0-2-3)"><i>supported, Psi, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23impoppable%231920x1080.btd6" title="required monkeys: sub(4-4-5), dart(0-0-2), buccaneer(5-2-5), desperado(5-2-0), ice(2-0-5), wizard(5-2-0), spike(2-0-5)"><i>with MK, Benjamin, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: druid(2-4-0), mermonkey(5-0-5), ninja(0-2-4)"><i>with MK, Benjamin, magic monkeys only, *, native: 1920x1080</i></a></td>
 		<td></td>
 		<td></td>
-		<td><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noLLwMK.btd6" title="required monkeys: buccaneer(4-4-0), sniper(4-0-2), heli(4-0-4), tack(4-0-2)"><i>with MK, Etienne, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noMK%23noLL%23chimpsPotential.btd6" title="required monkeys: dart(0-0-2), sniper(4-5-2), spike(0-2-5), alchemist(4-3-1), village(4-0-2), boomerang(2-0-4), glue(0-2-3)"><i>supported, Psi, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noLLwMK.btd6" title="required monkeys: buccaneer(4-4-0), sniper(4-0-2), heli(4-0-4), tack(4-0-2)">with MK, Etienne, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noMK%23noLL%23chimpsPotential.btd6" title="required monkeys: dart(0-0-2), sniper(4-5-2), spike(0-2-5), alchemist(4-3-1), village(4-0-2), boomerang(2-0-4), glue(0-2-3)">supported, Psi, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
+		<td><a href="playthroughs%2Fpeninsula%23chimps%231920x1080.btd6" title="required monkeys: dart(1-3-0), sniper(0-2-4), sub(0-0-0), ice(4-2-5), village(4-3-2), alchemist(4-2-0), spike(2-0-4), glue(5-0-2), boomerang(0-2-4), mermonkey(0-0-5)"><i>with MK, Silas, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noLLwMK.btd6" title="required monkeys: buccaneer(4-4-0), sniper(4-0-2), heli(4-0-4), tack(4-0-2)"><i>with MK, Etienne, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noMK%23noLL%23chimpsPotential.btd6" title="required monkeys: dart(0-0-2), sniper(4-5-2), spike(0-2-5), alchemist(4-3-1), village(4-0-2), boomerang(2-0-4), glue(0-2-3)"><i>supported, Psi, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23impoppable%231920x1080.btd6" title="required monkeys: sub(4-4-5), dart(0-0-2), buccaneer(5-2-5), desperado(5-2-0), ice(2-0-5), wizard(5-2-0), spike(2-0-5)"><i>with MK, Benjamin, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: druid(2-4-0), mermonkey(5-0-5), ninja(0-2-4)"><i>with MK, Benjamin, magic monkeys only, *, native: 1920x1080</i></a></td>
 		<td></td>
 		<td></td>
 		<td></td>
+		<td><a href="playthroughs%2Fpeninsula%23chimps%231920x1080.btd6" title="required monkeys: dart(1-3-0), sniper(0-2-4), sub(0-0-0), ice(4-2-5), village(4-3-2), alchemist(4-2-0), spike(2-0-4), glue(5-0-2), boomerang(0-2-4), mermonkey(0-0-5)"><i>with MK, Silas, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noLLwMK.btd6" title="required monkeys: buccaneer(4-4-0), sniper(4-0-2), heli(4-0-4), tack(4-0-2)">with MK, Etienne, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fpeninsula%23hard%232560x1440%23noMK%23noLL%23chimpsPotential.btd6" title="required monkeys: dart(0-0-2), sniper(4-5-2), spike(0-2-5), alchemist(4-3-1), village(4-0-2), boomerang(2-0-4), glue(0-2-3)">supported, Psi, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fpeninsula%23impoppable%231920x1080.btd6" title="required monkeys: sub(4-4-5), dart(0-0-2), buccaneer(5-2-5), desperado(5-2-0), ice(2-0-5), wizard(5-2-0), spike(2-0-5)"><i>with MK, Benjamin, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Fpeninsula%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: druid(2-4-0), mermonkey(5-0-5), ninja(0-2-4)"><i>with MK, Benjamin, magic monkeys only, *, native: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fpeninsula%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: druid(2-4-0), mermonkey(5-0-5), ninja(0-2-4)">with MK, Benjamin, magic monkeys only, *, native: 1920x1080</a></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td><a href="playthroughs%2Fpeninsula%23alternate_bloons_rounds%231920x1080.btd6" title="required monkeys: sub(4-4-4), dart(0-0-2), desperado(5-2-0), buccaneer(5-2-4), ice(2-0-4)">with MK, Benjamin, *, native: 1920x1080</a></td>
+		<td><a href="playthroughs%2Fpeninsula%23impoppable%231920x1080.btd6" title="required monkeys: sub(4-4-5), dart(0-0-2), buccaneer(5-2-5), desperado(5-2-0), ice(2-0-5), wizard(5-2-0), spike(2-0-5)">with MK, Benjamin, *, native: 1920x1080</a></td>
+		<td><a href="playthroughs%2Fpeninsula%23chimps%231920x1080.btd6" title="required monkeys: dart(1-3-0), sniper(0-2-4), sub(0-0-0), ice(4-2-5), village(4-3-2), alchemist(4-2-0), spike(2-0-4), glue(5-0-2), boomerang(0-2-4), mermonkey(0-0-5)">with MK, Silas, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -1738,20 +1738,20 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Cornfield</th>
-		<td><a href="playthroughs%2Fcornfield%23chimps%232560x1440.btd6" title="required monkeys: desperado(2-4-0), dart(0-2-0), tack(2-0-4), boomerang(0-2-4), village(4-3-0), glue(0-3-5), ace(2-0-4), druid(2-4-0), ninja(2-0-4)"><i>with MK, Psi, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noLL.btd6" title="required monkeys: tack(4-0-2), ninja(2-0-4), heli(4-0-3), glue(5-2-0)"><i>with MK, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: tack(4-0-2), heli(4-0-3), village(2-2-0)"><i>supported, Sauda, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fcornfield%23chimps%231920x1080.btd6" title="required monkeys: dart(5-2-0), village(5-2-2), desperado(5-2-0), tack(5-2-0), glue(2-0-5), alchemist(3-1-0)"><i>with MK, Quincy, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23chimps%232560x1440.btd6" title="required monkeys: desperado(2-4-0), dart(0-2-0), tack(2-0-4), boomerang(0-2-4), village(4-3-0), glue(0-3-5), ace(2-0-4), druid(2-4-0), ninja(2-0-4)"><i>with MK, Psi, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noLL.btd6" title="required monkeys: tack(4-0-2), ninja(2-0-4), heli(4-0-3), glue(5-2-0)"><i>with MK, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: tack(4-0-2), heli(4-0-3), village(2-2-0)"><i>supported, Sauda, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23impoppable%231920x1080.btd6" title="required monkeys: dart(5-2-2), farm(0-3-2), sniper(5-5-5), wizard(5-2-0), ninja(2-0-5), alchemist(5-0-0)"><i>with MK, Benjamin, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(4-0-4), druid(2-5-0), alchemist(4-2-0)"><i>with MK, Obyn_greenfoot, magic monkeys only, *, native: 1920x1080</i></a></td>
 		<td></td>
 		<td></td>
-		<td><a href="playthroughs%2Fcornfield%23chimps%232560x1440.btd6" title="required monkeys: desperado(2-4-0), dart(0-2-0), tack(2-0-4), boomerang(0-2-4), village(4-3-0), glue(0-3-5), ace(2-0-4), druid(2-4-0), ninja(2-0-4)"><i>with MK, Psi, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noLL.btd6" title="required monkeys: tack(4-0-2), ninja(2-0-4), heli(4-0-3), glue(5-2-0)"><i>with MK, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: tack(4-0-2), heli(4-0-3), village(2-2-0)"><i>supported, Sauda, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td><a href="playthroughs%2Fcornfield%23chimps%232560x1440.btd6" title="required monkeys: desperado(2-4-0), dart(0-2-0), tack(2-0-4), boomerang(0-2-4), village(4-3-0), glue(0-3-5), ace(2-0-4), druid(2-4-0), ninja(2-0-4)"><i>with MK, Psi, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noLL.btd6" title="required monkeys: tack(4-0-2), ninja(2-0-4), heli(4-0-3), glue(5-2-0)">with MK, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: tack(4-0-2), heli(4-0-3), village(2-2-0)">supported, Sauda, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
+		<td><a href="playthroughs%2Fcornfield%23chimps%231920x1080.btd6" title="required monkeys: dart(5-2-0), village(5-2-2), desperado(5-2-0), tack(5-2-0), glue(2-0-5), alchemist(3-1-0)"><i>with MK, Quincy, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23chimps%232560x1440.btd6" title="required monkeys: desperado(2-4-0), dart(0-2-0), tack(2-0-4), boomerang(0-2-4), village(4-3-0), glue(0-3-5), ace(2-0-4), druid(2-4-0), ninja(2-0-4)"><i>with MK, Psi, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noLL.btd6" title="required monkeys: tack(4-0-2), ninja(2-0-4), heli(4-0-3), glue(5-2-0)"><i>with MK, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: tack(4-0-2), heli(4-0-3), village(2-2-0)"><i>supported, Sauda, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23impoppable%231920x1080.btd6" title="required monkeys: dart(5-2-2), farm(0-3-2), sniper(5-5-5), wizard(5-2-0), ninja(2-0-5), alchemist(5-0-0)"><i>with MK, Benjamin, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(4-0-4), druid(2-5-0), alchemist(4-2-0)"><i>with MK, Obyn_greenfoot, magic monkeys only, *, native: 1920x1080</i></a></td>
 		<td></td>
 		<td></td>
 		<td></td>
+		<td><a href="playthroughs%2Fcornfield%23chimps%231920x1080.btd6" title="required monkeys: dart(5-2-0), village(5-2-2), desperado(5-2-0), tack(5-2-0), glue(2-0-5), alchemist(3-1-0)"><i>with MK, Quincy, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23chimps%232560x1440.btd6" title="required monkeys: desperado(2-4-0), dart(0-2-0), tack(2-0-4), boomerang(0-2-4), village(4-3-0), glue(0-3-5), ace(2-0-4), druid(2-4-0), ninja(2-0-4)"><i>with MK, Psi, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noLL.btd6" title="required monkeys: tack(4-0-2), ninja(2-0-4), heli(4-0-3), glue(5-2-0)">with MK, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fcornfield%23hard%232560x1440%23noMK%23noLL.btd6" title="required monkeys: tack(4-0-2), heli(4-0-3), village(2-2-0)">supported, Sauda, native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Fcornfield%23impoppable%231920x1080.btd6" title="required monkeys: dart(5-2-2), farm(0-3-2), sniper(5-5-5), wizard(5-2-0), ninja(2-0-5), alchemist(5-0-0)"><i>with MK, Benjamin, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Fcornfield%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(4-0-4), druid(2-5-0), alchemist(4-2-0)"><i>with MK, Obyn_greenfoot, magic monkeys only, *, native: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Fcornfield%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(4-0-4), druid(2-5-0), alchemist(4-2-0)">with MK, Obyn_greenfoot, magic monkeys only, *, native: 1920x1080</a></td>
 		<td></td>
 		<td></td>
-		<td><a href="playthroughs%2Fcornfield%23chimps%232560x1440.btd6" title="required monkeys: desperado(2-4-0), dart(0-2-0), tack(2-0-4), boomerang(0-2-4), village(4-3-0), glue(0-3-5), ace(2-0-4), druid(2-4-0), ninja(2-0-4)">with MK, Psi, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
+		<td><a href="playthroughs%2Fcornfield%23alternate_bloons_rounds%231920x1080.btd6" title="required monkeys: dart(5-0-2), sniper(4-5-5), wizard(5-2-0), farm(2-0-3)">with MK, Benjamin, *, native: 1920x1080, tested for: 1920x1080</a></td>
+		<td><a href="playthroughs%2Fcornfield%23impoppable%231920x1080.btd6" title="required monkeys: dart(5-2-2), farm(0-3-2), sniper(5-5-5), wizard(5-2-0), ninja(2-0-5), alchemist(5-0-0)">with MK, Benjamin, *, native: 1920x1080, tested for: 1920x1080</a></td>
+		<td><a href="playthroughs%2Fcornfield%23chimps%231920x1080.btd6" title="required monkeys: dart(5-2-0), village(5-2-2), desperado(5-2-0), tack(5-2-0), glue(2-0-5), alchemist(3-1-0)">with MK, Quincy, *, native: 1920x1080, tested for: 1920x1080</a><br><br><a href="playthroughs%2Fcornfield%23chimps%232560x1440.btd6" title="required monkeys: desperado(2-4-0), dart(0-2-0), tack(2-0-4), boomerang(0-2-4), village(4-3-0), glue(0-3-5), ace(2-0-4), druid(2-4-0), ninja(2-0-4)">with MK, Psi, *, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -1865,20 +1865,20 @@ An _italic_ listing means the corresponding playthrough is derived from a playth
 	</tr>
 	<tr>
 	<th>Infernal</th>
-		<td><a href="playthroughs%2Finfernal%23hard%232560x1440%23noMK%23noLLwMK%23chimpsPotential.btd6" title="required monkeys: dart(0-2-5), sub(2-0-5), sniper(1-0-1), village(2-2-0), heli(5-0-2), alchemist(4-0-1), wizard(0-2-5), spike(3-2-0)"><i>supported, Quincy, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Finfernal%23chimps%231920x1080.btd6" title="required monkeys: dart(0-0-0), sniper(5-5-5), village(2-0-2), alchemist(5-0-1)"><i>with MK, Quincy, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Finfernal%23hard%232560x1440%23noMK%23noLLwMK%23chimpsPotential.btd6" title="required monkeys: dart(0-2-5), sub(2-0-5), sniper(1-0-1), village(2-2-0), heli(5-0-2), alchemist(4-0-1), wizard(0-2-5), spike(3-2-0)"><i>supported, Quincy, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Finfernal%23impoppable%231920x1080.btd6" title="required monkeys: dart(0-2-4), desperado(5-2-0), sub(2-4-5), sniper(4-2-5), alchemist(4-2-0), wizard(5-2-5)"><i>with MK, Benjamin, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Finfernal%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(2-0-4), druid(2-4-0), wizard(0-2-5), super(0-2-3), mermonkey(2-0-4)"><i>with MK, Benjamin, magic monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
 		<td></td>
 		<td><a href="playthroughs%2Finfernal%23deflation%232560x1440%23noMK%23noLL.btd6" title="required monkeys: boomerang(2-0-2), sniper(4-2-4)">supported, Etienne, native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
-		<td><a href="playthroughs%2Finfernal%23hard%232560x1440%23noMK%23noLLwMK%23chimpsPotential.btd6" title="required monkeys: dart(0-2-5), sub(2-0-5), sniper(1-0-1), village(2-2-0), heli(5-0-2), alchemist(4-0-1), wizard(0-2-5), spike(3-2-0)"><i>supported, Quincy, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Finfernal%23chimps%231920x1080.btd6" title="required monkeys: dart(0-0-0), sniper(5-5-5), village(2-0-2), alchemist(5-0-1)"><i>with MK, Quincy, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Finfernal%23hard%232560x1440%23noMK%23noLLwMK%23chimpsPotential.btd6" title="required monkeys: dart(0-2-5), sub(2-0-5), sniper(1-0-1), village(2-2-0), heli(5-0-2), alchemist(4-0-1), wizard(0-2-5), spike(3-2-0)"><i>supported, Quincy, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</i></a><br><br><a href="playthroughs%2Finfernal%23impoppable%231920x1080.btd6" title="required monkeys: dart(0-2-4), desperado(5-2-0), sub(2-4-5), sniper(4-2-5), alchemist(4-2-0), wizard(5-2-5)"><i>with MK, Benjamin, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Finfernal%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(2-0-4), druid(2-4-0), wizard(0-2-5), super(0-2-3), mermonkey(2-0-4)"><i>with MK, Benjamin, magic monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
 		<td></td>
 		<td></td>
 		<td></td>
-		<td><a href="playthroughs%2Finfernal%23hard%232560x1440%23noMK%23noLLwMK%23chimpsPotential.btd6" title="required monkeys: dart(0-2-5), sub(2-0-5), sniper(1-0-1), village(2-2-0), heli(5-0-2), alchemist(4-0-1), wizard(0-2-5), spike(3-2-0)">supported, Quincy, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</a></td>
+		<td><a href="playthroughs%2Finfernal%23chimps%231920x1080.btd6" title="required monkeys: dart(0-0-0), sniper(5-5-5), village(2-0-2), alchemist(5-0-1)"><i>with MK, Quincy, *, native: 1920x1080</i></a><br><br><a href="playthroughs%2Finfernal%23hard%232560x1440%23noMK%23noLLwMK%23chimpsPotential.btd6" title="required monkeys: dart(0-2-5), sub(2-0-5), sniper(1-0-1), village(2-2-0), heli(5-0-2), alchemist(4-0-1), wizard(0-2-5), spike(3-2-0)">supported, Quincy, (*), native: 2560x1440, tested for: 2560x1440, 1920x1080</a><br><br><a href="playthroughs%2Finfernal%23impoppable%231920x1080.btd6" title="required monkeys: dart(0-2-4), desperado(5-2-0), sub(2-4-5), sniper(4-2-5), alchemist(4-2-0), wizard(5-2-5)"><i>with MK, Benjamin, *, native: 1920x1080, tested for: 1920x1080</i></a><br><br><a href="playthroughs%2Finfernal%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(2-0-4), druid(2-4-0), wizard(0-2-5), super(0-2-3), mermonkey(2-0-4)"><i>with MK, Benjamin, magic monkeys only, *, native: 1920x1080, tested for: 1920x1080</i></a></td>
+		<td><a href="playthroughs%2Finfernal%23magic_monkeys_only%231920x1080.btd6" title="required monkeys: ninja(2-0-4), druid(2-4-0), wizard(0-2-5), super(0-2-3), mermonkey(2-0-4)">with MK, Benjamin, magic monkeys only, *, native: 1920x1080, tested for: 1920x1080</a></td>
 		<td></td>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><a href="playthroughs%2Finfernal%23alternate_bloons_rounds%231920x1080.btd6" title="required monkeys: dart(0-2-4), desperado(5-2-0), sub(2-4-5), sniper(4-2-5), alchemist(4-2-0)">with MK, Benjamin, *, native: 1920x1080, tested for: 1920x1080</a></td>
+		<td><a href="playthroughs%2Finfernal%23impoppable%231920x1080.btd6" title="required monkeys: dart(0-2-4), desperado(5-2-0), sub(2-4-5), sniper(4-2-5), alchemist(4-2-0), wizard(5-2-5)">with MK, Benjamin, *, native: 1920x1080, tested for: 1920x1080</a></td>
+		<td><a href="playthroughs%2Finfernal%23chimps%231920x1080.btd6" title="required monkeys: dart(0-0-0), sniper(5-5-5), village(2-0-2), alchemist(5-0-1)">with MK, Quincy, *, native: 1920x1080</a></td>
 		<td></td>
 	</tr>
 	<tr>
